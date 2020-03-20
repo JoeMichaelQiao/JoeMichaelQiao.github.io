@@ -6,13 +6,13 @@
 [![codebeat badge](https://codebeat.co/badges/5f031df3-f6c1-4ec0-911a-ff6617ca50b9)](https://codebeat.co/projects/github-com-qiubaiying-qiubaiying-github-io-master)
 [![GitHub issues](https://img.shields.io/github/issues/qiubaiying/qiubaiying.github.io.svg?style=flat)](https://github.com/qiubaiying/qiubaiying.github.io/issues)
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/home-assistant/home-assistant-iOS/blob/master/LICENSE)
-[![](https://img.shields.io/github/stars/qiubaiying/qiubaiying.github.io.svg?style=social&label=Star)](https://github.com/qiubaiying/qiubaiying.github.io)
-[![](https://img.shields.io/github/forks/qiubaiying/qiubaiying.github.io.svg?style=social&label=Fork)](https://github.com/qiubaiying/qiubaiying.github.io)
+[![](https://img.shields.io/github/stars/joemichaelqiao/joemichaelqiao.github.io.svg?style=social&label=Star)](https://github.com/joemichaelqiao/joemichaelqiao.github.io)
+[![](https://img.shields.io/github/forks/joemichaelqiao/joemichaelqiao.github.io.svg?style=social&label=Fork)](https://github.com/joemichaelqiao/joemichaelqiao.github.io)
 
 
 博客的搭建教程修改自 [BY](https://github.com/qiubaiying/qiubaiying.github.io) 
  
-更为详细的教程戳这 [《手把手教你在半小时内搭建自己的个人博客(如果不踩坑的话🙈🙊🙉)》](https://joemichaelqiao.github.io/2017/02/06/%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/) 或 [wiki](https://github.com/qiubaiying/qiubaiying.github.io/wiki/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B)
+更为详细的教程戳这 [《手把手教你在半小时内搭建自己的个人博客(如果不踩坑的话🙈🙊🙉)》](https://joemichaelqiao.github.io/2017/02/06/%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/) 或 [wiki](https://github.com/joemichaelqiao/joemichaelqiao.github.io/wiki/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B)
 
 >
 ### [查看博客戳这里 👆](http://joemichael.github.io)
