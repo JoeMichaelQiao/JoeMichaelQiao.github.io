@@ -107,10 +107,4 @@ friends: [
     },{
         title: "Java",
         href: "https://java.com/"
-    },{
-        title: "Java Developer",
-        href: "https://www.java.com/zh_CN/download/faq/develop.xml"
-    },{
-        title: "New to Java"
-        href: "https://www.oracle.com/technetwork/topics/newtojava/"
 ]
