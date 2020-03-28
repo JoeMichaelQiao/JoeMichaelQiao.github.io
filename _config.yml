@@ -99,7 +99,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "QiuBaiYing ",
+        title: "QiuBaiYing",
         href: "https://github.com/qiubaiying/qiubaiying.github.io"
     },{
         title: "BY Blog",
@@ -108,10 +108,10 @@ friends: [
         title: "Java",
         href: "https://java.com/"
     },{	
-        title: "Java Developer",	
+        title: "Java Developer",
         href: "https://www.java.com/zh_CN/download/faq/develop.xml"	
     },{	
-        title: "New to Java"	
+        title: "New to Java",
         href: "https://www.oracle.com/technetwork/topics/newtojava/"
     }
 ]
