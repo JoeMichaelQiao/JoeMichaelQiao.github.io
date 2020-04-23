@@ -1,4 +1,4 @@
 # robots.txt generated at https://www.sojson.com/robots/
-Crawl-delay: 120
+Crawl-delay: 60
 User-agent: *
-Disallow:
+Allow:/
