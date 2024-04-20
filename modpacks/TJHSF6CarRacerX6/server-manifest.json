@@ -1,0 +1,1739 @@
+{
+  "name": "天中F6方程式赛车手x6",
+  "author": "JoeMichaelQiao",
+  "version": "Dev.0.26",
+  "description": "别™乱动游戏文件\n\r崩溃和建议反馈给JoeMichaelQiao",
+  "fileApi": "http://joemichaelqiao.github.io/modpacks/TJHSF6CarRacerX6",
+  "files": [
+    {
+      "path": "config/ae2/client.json",
+      "hash": "05d76413c189736ff3a323b3763d00ccaeb68092"
+    },
+    {
+      "path": "config/ae2/common.json",
+      "hash": "458bef9d2fbbf23ee2f53b23262e0f6cbac5503c"
+    },
+    {
+      "path": "config/appleskin-client.toml",
+      "hash": "01ddb88e420140c33e4cfc0c105edd6e40a5f2c7"
+    },
+    {
+      "path": "config/balm-common.toml",
+      "hash": "d658b683f7a01a8d892af452f2ef8c3d3dd04c57"
+    },
+    {
+      "path": "config/botania-client.toml",
+      "hash": "4e3898e5ecf347e74eac0ddda2062818bce801ab"
+    },
+    {
+      "path": "config/botania-common.toml",
+      "hash": "14ae910bd57d11cceb4597f413ed5923d3c9ffb4"
+    },
+    {
+      "path": "config/computercraft-client.toml",
+      "hash": "ec11d70c26998829d11521e227cb53ef455a414f"
+    },
+    {
+      "path": "config/cupboard.json",
+      "hash": "cfa60cb9fc1260b3c92e2eb08ac7e0d4d13274f5"
+    },
+    {
+      "path": "config/curios-client.toml",
+      "hash": "3034250c05362494c9f366e5cca449dcea88885d"
+    },
+    {
+      "path": "config/curios-common.toml",
+      "hash": "71b3af0db517d1651174a40732633899cbabc927"
+    },
+    {
+      "path": "config/dynamic_lights_reforged.toml",
+      "hash": "bc2960004e4aff892ac9ce072ffd6ae87192c465"
+    },
+    {
+      "path": "config/embeddium++.toml",
+      "hash": "c0c13e0f89c4bd498c183264047c0f903ce71808"
+    },
+    {
+      "path": "config/embeddium-fingerprint.json",
+      "hash": "d3af9fa6df0faa671e0325628a3061369cb8cefa"
+    },
+    {
+      "path": "config/embeddium-mixins.properties",
+      "hash": "a729ee50d18cf2204ff9fc33bc21641d55185c88"
+    },
+    {
+      "path": "config/embeddium-options.json",
+      "hash": "099742447659aad48b8ef95ea454f1531b44dab5"
+    },
+    {
+      "path": "config/enchdesc.json",
+      "hash": "d343c7b0f6c28fd6759196e0349dcb875c4f7ce9"
+    },
+    {
+      "path": "config/farmersdelight-client.toml",
+      "hash": "7109adf50788f4bf5797dd3809ad0dc923c8f023"
+    },
+    {
+      "path": "config/farmersdelight-common.toml",
+      "hash": "a0fbeadaf9f7876059852ca40e903d9ad4d0ac48"
+    },
+    {
+      "path": "config/farsight.json",
+      "hash": "39930d8507c37526df6ffe216dd85bf13386b57e"
+    },
+    {
+      "path": "config/ferritecore-mixin.toml",
+      "hash": "bada32b53873ce4121ffefb82ca804c94aef2e0b"
+    },
+    {
+      "path": "config/fml.toml",
+      "hash": "13b97af47795df38aed62eb9b1a01266ecdaa64f"
+    },
+    {
+      "path": "config/forge-client.toml",
+      "hash": "5dcc032ce1e3d9e4a9552880f8de2e2c71fcdb1e"
+    },
+    {
+      "path": "config/InventoryHUD/curios.json",
+      "hash": "c2cf1e76c9c1c7e925891a2f493bd6779c110853"
+    },
+    {
+      "path": "config/inventoryhud-client.toml",
+      "hash": "6a0e9df89b029c2c08eff58789c2e567914fcd22"
+    },
+    {
+      "path": "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json",
+      "hash": "2bedb4d58a778b937dd9da01c50a46af9887709b"
+    },
+    {
+      "path": "config/inventoryprofilesnext/inventoryprofiles.json",
+      "hash": "58b81b870399a90daad1a3249c68c2d5bd18abf9"
+    },
+    {
+      "path": "config/inventoryprofilesnext/天中F5方程式赛车手x5/villager-trading-config.json",
+      "hash": "72e1edc69ca1f97139ff84a7fa029ebe7d275924"
+    },
+    {
+      "path": "config/jade/hide-blocks.json",
+      "hash": "4687cf45914c45a4a67441d1f440d7d89d0f6281"
+    },
+    {
+      "path": "config/jade/hide-entities.json",
+      "hash": "9984b019823e8eaf19a40d0b7ee92590cb53b8e9"
+    },
+    {
+      "path": "config/jade/jade.json",
+      "hash": "ee2b0a56fe8fc5a46ef1e4fc02807abd5ec61a00"
+    },
+    {
+      "path": "config/jade/plugins.json",
+      "hash": "362881f25b3494c852b6ee89ef6922a2d8e3b2a9"
+    },
+    {
+      "path": "config/jade/sort-order.json",
+      "hash": "58345feab40196da169f47cf78b0b02a4f291270"
+    },
+    {
+      "path": "config/jecharacters.toml",
+      "hash": "48f70c578daef7312d44f75372decfd4738945b2"
+    },
+    {
+      "path": "config/jeed-client.toml",
+      "hash": "c3dd867e2224ad16fc5812a2597405456eef4b13"
+    },
+    {
+      "path": "config/jei/blacklist.cfg",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "config/jei/ingredient-list-mod-sort-order.ini",
+      "hash": "9b426d4a05832918e1259b6c39d4bc6e0a011d79"
+    },
+    {
+      "path": "config/jei/ingredient-list-type-sort-order.ini",
+      "hash": "58b7374463ecad91941dee1f1f80edafd855c02d"
+    },
+    {
+      "path": "config/jei/jei-client.ini",
+      "hash": "67ff1ce2ef09db0664d3e40d6f324ce1ac84dbdf"
+    },
+    {
+      "path": "config/jei/jei-colors.ini",
+      "hash": "c973cab829ccdc4dd2d0f56ebd27b10e33678ad4"
+    },
+    {
+      "path": "config/jei/jei-debug.ini",
+      "hash": "dd6106bd2ac4a3d2b02793ee58e46fb5786f758c"
+    },
+    {
+      "path": "config/jei/jei-mod-id-format.ini",
+      "hash": "deff4edb19c6e15cc79c24d043e7cadc21adbfe7"
+    },
+    {
+      "path": "config/jei/recipe-category-sort-order.ini",
+      "hash": "dc63bffb43d31053a271b6bb3173105ddca01809"
+    },
+    {
+      "path": "config/jei/world/local/__F5______x5__1/bookmarks.ini",
+      "hash": "286cf0fe181c1e874557a8bb4737210e15c19049"
+    },
+    {
+      "path": "config/jeiintegration-client.toml",
+      "hash": "e72c9d1f9e21bf8aa3f43c69358d8e57121da478"
+    },
+    {
+      "path": "config/jei_mekanism_multiblocks-client.toml",
+      "hash": "45331a34cdf418d1b213bd5766a1e2aa60730aad"
+    },
+    {
+      "path": "config/jeresources-common.toml",
+      "hash": "6aa78dcf4043839e101c0b116a05d6e936272585"
+    },
+    {
+      "path": "config/jeresources.toml",
+      "hash": "5488c358d2c0aa830e73bc9795a1a18c36256407"
+    },
+    {
+      "path": "config/l2_configs/l2damagetracker-common.toml",
+      "hash": "5e06aed5abe2fe7c45df63ae5dfd684d60c49c20"
+    },
+    {
+      "path": "config/l2_configs/l2library-client.toml",
+      "hash": "7b96ef3a4a39bf587c6b0f08c392dc502991f7be"
+    },
+    {
+      "path": "config/l2_configs/l2library-common.toml",
+      "hash": "572b067ea256a987a6a39fcccd1214c367b6fa51"
+    },
+    {
+      "path": "config/lithium.properties",
+      "hash": "65b5df6be2f19763b33dd8b1a1ac5323c6e5f2fb"
+    },
+    {
+      "path": "config/Mekanism/additions-client.toml",
+      "hash": "4076d4870c34b8763e7246855fa1eeb6d4beffb9"
+    },
+    {
+      "path": "config/Mekanism/additions.toml",
+      "hash": "9c0aa18ed305fc1c40f952f0e1ed8d97763627de"
+    },
+    {
+      "path": "config/Mekanism/client.toml",
+      "hash": "9755813f973b050413c1b673706e93ae4ea7ae55"
+    },
+    {
+      "path": "config/Mekanism/common.toml",
+      "hash": "a54f0be1038b2e4100e161f8bd925742f3912ef0"
+    },
+    {
+      "path": "config/Mekanism/gear.toml",
+      "hash": "2db94fe13a212a353f51b1dc0ed0f93aa53e622b"
+    },
+    {
+      "path": "config/Mekanism/general.toml",
+      "hash": "c8d71509dbd6d7c1fa1b850b09389b9e48fa9cc9"
+    },
+    {
+      "path": "config/Mekanism/generator-storage.toml",
+      "hash": "2570f2497f76681bef61996c0fedb12aac3cd01f"
+    },
+    {
+      "path": "config/Mekanism/generators-gear.toml",
+      "hash": "1584e3b0e83d0d09ef42e74adc4fc1d6737b9ff1"
+    },
+    {
+      "path": "config/Mekanism/generators.toml",
+      "hash": "8916a61adfe8104e01887b76e59b4706ee05c6ad"
+    },
+    {
+      "path": "config/Mekanism/machine-storage.toml",
+      "hash": "173bf6c23d83a7f739aba296a6d339cdb69818de"
+    },
+    {
+      "path": "config/Mekanism/machine-usage.toml",
+      "hash": "ccca961188555f9723457d834d80023bec88f2f9"
+    },
+    {
+      "path": "config/Mekanism/tiers.toml",
+      "hash": "66f6495765118b9323da477d2705404a42d987b5"
+    },
+    {
+      "path": "config/Mekanism/tools-client.toml",
+      "hash": "d07943ba258b432b83a1033018f1415279270029"
+    },
+    {
+      "path": "config/Mekanism/tools.toml",
+      "hash": "dcc7acdc6afb68bf71674303eb57527b66e66f0c"
+    },
+    {
+      "path": "config/Mekanism/world.toml",
+      "hash": "b9901a2bc6ef8d34530486efbd6d42dd62097537"
+    },
+    {
+      "path": "config/MouseTweaks.cfg",
+      "hash": "651b3e4db2d430dc1da3566b2984b264061a6794"
+    },
+    {
+      "path": "config/neat-client.toml",
+      "hash": "72467f86b3b7b7cfa12be05652c8f797ecd472dd"
+    },
+    {
+      "path": "config/oculus.properties",
+      "hash": "aaa78a8a407436a4eca35ab3df64c2553c9e8965"
+    },
+    {
+      "path": "config/oreexcavation/block_groups.json",
+      "hash": "0635cdf5d1376d58002b2b7ab6742d426b30eb94"
+    },
+    {
+      "path": "config/oreexcavation/shapes.json",
+      "hash": "8c1c8c007367dda8f91e16ad277a4fd0bedc6948"
+    },
+    {
+      "path": "config/oreexcavation/tool_overrides.json",
+      "hash": "8d6e2a5e0cf40d518b7bf84dc102895f04938cd3"
+    },
+    {
+      "path": "config/oreexcavation-client.toml",
+      "hash": "594e56f536528b6bdc7a7c49a34cd435a61cf978"
+    },
+    {
+      "path": "config/oreexcavation-common.toml",
+      "hash": "7e77dfe64296e8d93703c1e0919969649d3c9664"
+    },
+    {
+      "path": "config/patchouli-client.toml",
+      "hash": "e4987ed22204ca092b2d62a5fa1a065fe88fd9b2"
+    },
+    {
+      "path": "config/ProjectE/client.toml",
+      "hash": "6c55d8d45c0eacae96fea2a8fd88296d770e7a71"
+    },
+    {
+      "path": "config/ProjectE/common.toml",
+      "hash": "ec8fbaed3d0200daf1d08a2ea58fa2b37306753f"
+    },
+    {
+      "path": "config/ProjectE/custom_emc.json",
+      "hash": "55752ddc59cf1ad412a32a9610fe63de20e8aa96"
+    },
+    {
+      "path": "config/ProjectE/mapping.toml",
+      "hash": "2ffeeb4934deaa492eb611f859fc53e0da6510fc"
+    },
+    {
+      "path": "config/ProjectE/processing.toml",
+      "hash": "b4c89936c4a09ecc129ccbfc13fb4918f4c39f1c"
+    },
+    {
+      "path": "config/ProjectE/server.toml",
+      "hash": "1df1aecb7100dd2ae5392e7da98c2e480f61fc2c"
+    },
+    {
+      "path": "config/sodium-extra-options.json",
+      "hash": "a19153be63d1013fc9fbe2a464ba5b184e1d1a6e"
+    },
+    {
+      "path": "config/sodium-extra.properties",
+      "hash": "e90b2514226a0624cf42112b42477f9872598b89"
+    },
+    {
+      "path": "config/sophisticatedbackpacks-common.toml",
+      "hash": "300cb0348cbb41fb48bab6849802495881fc9b93"
+    },
+    {
+      "path": "config/sophisticatedcore-client.toml",
+      "hash": "f6f59485a1bf80c76da0a53d3be2bd9c4ee79e61"
+    },
+    {
+      "path": "config/sophisticatedcore-common.toml",
+      "hash": "5c57d9369fb4a447a65bf8743e2a3c5bdb5f5da4"
+    },
+    {
+      "path": "config/waystones-common.toml",
+      "hash": "17b6d3f79de5d33f509c26fbe3614c56cfc292a6"
+    },
+    {
+      "path": "config/youkaishomecoming-common.toml",
+      "hash": "7d28e0fa66cf98ba2877e8ebf938755dbd179964"
+    },
+    {
+      "path": "CustomSkinLoader/CustomSkinAPIPlus-ClientID",
+      "hash": "8e410f2a864b3e8c7e149c4d7c72cd68f113581e"
+    },
+    {
+      "path": "CustomSkinLoader/CustomSkinLoader.json",
+      "hash": "0cfe7fdfabf1a8c2e64ec37aec2c1112f753d291"
+    },
+    {
+      "path": "hmclversion.cfg",
+      "hash": "1347a507cf733973f8bbcbc5f842ab21239c53fe"
+    },
+    {
+      "path": "mods/balm-forge-1.20.1-7.2.2.jar",
+      "hash": "637e8a504b6c577b90325778823240ec5dbcc0fe"
+    },
+    {
+      "path": "mods/Bookshelf-Forge-1.20.1-20.1.10.jar",
+      "hash": "6f9ac2d30eb64781ddd47ddf0b2ea84c32501e03"
+    },
+    {
+      "path": "mods/cc-tweaked-1.20.1-forge-1.110.2.jar",
+      "hash": "da1be0164573c18c05ba25764e9a831ac44fa1f5"
+    },
+    {
+      "path": "mods/cupboard-1.20.1-2.6.jar",
+      "hash": "9371c91104799702e31b482f6790a2e39c63505f"
+    },
+    {
+      "path": "mods/curios-forge-5.8.1+1.20.1.jar",
+      "hash": "987f67849c688cbedaf33439dc95e1c300f5feaf"
+    },
+    {
+      "path": "mods/embeddium-0.3.14+mc1.20.1.jar",
+      "hash": "efedfabdac3301016478688f3d19d2be25e743a7"
+    },
+    {
+      "path": "mods/embeddiumplus-1.20.1-v1.2.7.jar",
+      "hash": "639d293180659ff2643963bee9cbbc35d38a30fa"
+    },
+    {
+      "path": "mods/farsight-1.20.1-3.6.jar",
+      "hash": "b58119fea950fffec3350d7f5792558a3339046b"
+    },
+    {
+      "path": "mods/JadeAddons-1.20.1-forge-5.2.2.jar",
+      "hash": "74b567a2b23bf34cd37ee4c02059318f8cc702d7"
+    },
+    {
+      "path": "mods/JustEnoughMekanismMultiblocks-1.20.1-4.2.jar",
+      "hash": "37233be8106802c103e0145e9c3d32e3d03c6c43"
+    },
+    {
+      "path": "mods/JustEnoughMekanismMultiblocks-1.20.1-4.2.jar.disabled",
+      "hash": "37233be8106802c103e0145e9c3d32e3d03c6c43"
+    },
+    {
+      "path": "mods/JustEnoughResources-1.20.1-1.4.0.247.jar",
+      "hash": "526e788a9b38afc5171fab49b64a5a54e1bb25d7"
+    },
+    {
+      "path": "mods/kotlinforforge-4.10.0-all.jar",
+      "hash": "5981310618ebe818177bb2a703f8a7fb01bc8efc"
+    },
+    {
+      "path": "mods/libIPN-forge-1.20-4.0.2.jar",
+      "hash": "3e7c7fcdc037a6ae3d9146e718d87fc83f88f6d5"
+    },
+    {
+      "path": "mods/oculus-mc1.20.1-1.6.15a.jar",
+      "hash": "478a222cd6390353ba080b07fcac2b6301fbe3a2"
+    },
+    {
+      "path": "mods/Searchables-forge-1.20.1-1.0.2.jar",
+      "hash": "15548b2b50b700c0ffe2b9c4de80dfe510db208d"
+    },
+    {
+      "path": "mods/[JEI工作方块] JustEnoughProfessions-forge-1.20.1-3.0.1.jar",
+      "hash": "dd8b3252f980da6ff4bc39127a84d786cf0bd06f"
+    },
+    {
+      "path": "mods/[JEI扩展] jeiintegration_1.20.1-10.0.0.jar",
+      "hash": "0aa9c598105938ee0be35f1c1b31ab5d936b0ef6"
+    },
+    {
+      "path": "mods/[JEI物品管理器] jei-1.20.1-forge-15.3.0.4.jar",
+      "hash": "1a431d34991d51998f9971c4291bac2d58eaa154"
+    },
+    {
+      "path": "mods/[JEI药水效果] jeed-1.20-2.1.12.jar",
+      "hash": "38d95e3a45183e01dd527289ea765fbb69917646"
+    },
+    {
+      "path": "mods/[TexTrue的Embeddium视频界面] textrues_embeddium_options-0.1.5+mc1.20.1.jar",
+      "hash": "f35d0566e43cde0c4ffba9ecf893209b2b96b0c8"
+    },
+    {
+      "path": "mods/[一键背包整理Next] InventoryProfilesNext-forge-1.20-1.10.10.jar",
+      "hash": "4741ea1fd6d1593b693a389b7c6e1e47690ac3ad"
+    },
+    {
+      "path": "mods/[万用皮肤补丁] CustomSkinLoader_ForgeActive-14.19.1.jar",
+      "hash": "27845f67520078467ea0d3d8f223c93bcb62e222"
+    },
+    {
+      "path": "mods/[传送石碑／指路石] waystones-forge-1.20-14.1.3.jar",
+      "hash": "e71a99318c7a5267223f7f5ada7f6851023c0377"
+    },
+    {
+      "path": "mods/[农夫乐事] FarmersDelight-1.20.1-1.2.4.jar",
+      "hash": "71daa55fd88b6f181c51ec6892600415df591f64"
+    },
+    {
+      "path": "mods/[妖怪们的归家] youkaishomecoming-2.1.3.jar",
+      "hash": "853b72301952cb0df3389af47859a5bc1ff888f5"
+    },
+    {
+      "path": "mods/[帕秋莉手册] Patchouli-1.20.1-84-FORGE.jar",
+      "hash": "b6b7267f3669c10c167d5d375d0274d40e3eb756"
+    },
+    {
+      "path": "mods/[应用能源2] appliedenergistics2-forge-15.1.1.jar",
+      "hash": "4c38d42e2d1320dc683917084e72820fcd235b97"
+    },
+    {
+      "path": "mods/[应用能源：植物魔法附属] Applied-Botanics-forge-1.5.0.jar",
+      "hash": "26ef152312f3fa21dfee305a6787f96c065d6831"
+    },
+    {
+      "path": "mods/[拔刀剑] SlashBlade-1.20.1-0.1.2.jar",
+      "hash": "2ca2eab52831da73c75f8bdd8ce072334d331ffa"
+    },
+    {
+      "path": "mods/[旅行地图] journeymap-1.20.1-5.9.20-forge.jar",
+      "hash": "831afc89c7e46efcf6643de55e958c67511f83e2"
+    },
+    {
+      "path": "mods/[更多箱子] ironchest-1.20.1-14.4.4.jar",
+      "hash": "4b2dd0f581e40f8bd6f6e63b2d84c06dfde2c4eb"
+    },
+    {
+      "path": "mods/[极简血量显示] Neat-1.20-35-FORGE.jar",
+      "hash": "64a1e156a84e79db35312b33f84ba6b7f8064f1a"
+    },
+    {
+      "path": "mods/[植物魔法] Botania-1.20.1-443-FORGE.jar",
+      "hash": "547f03922777254e2b8d68f6c166f20986b54f23"
+    },
+    {
+      "path": "mods/[物品栏HUD+] invhud.forge.1.20.1-3.4.18.jar",
+      "hash": "0ab697cc46a1fd67c7c6b02130c06258bb01ecfc"
+    },
+    {
+      "path": "mods/[玉 🔍] Jade-1.20.1-forge-11.8.0.jar",
+      "hash": "bc7eca506af9e754b6283af15ba5a35532a96683"
+    },
+    {
+      "path": "mods/[矿石挖掘] oreexcavation-1.13.170.jar",
+      "hash": "25b6bdf7d05f5a8b1f166e0c700180d44e242cee"
+    },
+    {
+      "path": "mods/[等价交换重制版] ProjectE-1.20.1-PE1.0.1.jar",
+      "hash": "affd130b8a77e60dd7d7f7f3621d0182d82d13e1"
+    },
+    {
+      "path": "mods/[精妙核心] sophisticatedcore-1.20.1-0.6.18.597.jar",
+      "hash": "dbdbb42d93be41064cc2e4d901457a3d7ba00e1b"
+    },
+    {
+      "path": "mods/[精妙背包] sophisticatedbackpacks-1.20.1-3.20.5.1039.jar",
+      "hash": "52c9dc2703f4363bc8698441827ec02293dad836"
+    },
+    {
+      "path": "mods/[苹果皮] appleskin-forge-mc1.20.1-2.5.1.jar",
+      "hash": "81919356f84eab14258db98924b66c3c38e372b1"
+    },
+    {
+      "path": "mods/[通用拼音搜索] jecharacters-1.20.1-forge-4.5.9.jar",
+      "hash": "39e7660eb1942e52eedf45bb2b72d5d3187a7454"
+    },
+    {
+      "path": "mods/[通用机械] Mekanism-1.20.1-10.4.6.20.jar",
+      "hash": "728c25f3c3638f9336f15503f94d1073a48ddc42"
+    },
+    {
+      "path": "mods/[通用机械发电机] MekanismGenerators-1.20.1-10.4.6.20.jar",
+      "hash": "f84eb089018308df6260a87cadc808518343dcce"
+    },
+    {
+      "path": "mods/[通用机械工具] MekanismTools-1.20.1-10.4.6.20.jar",
+      "hash": "6ca885b2299f6c36593ebdfbe36e83a371a64dfc"
+    },
+    {
+      "path": "mods/[通用机械附加] MekanismAdditions-1.20.1-10.4.6.20.jar",
+      "hash": "2a70ef4bba6aaccd56c352ebca648a7bca630c57"
+    },
+    {
+      "path": "mods/[铁氧体磁芯] ferritecore-6.0.1-forge.jar",
+      "hash": "417fb6ce8f52abf40bd9d0390371790f9576f8ba"
+    },
+    {
+      "path": "mods/[铷 · 扩展] rubidium-extra-0.5.4.2+mc1.20.1-build.118.jar",
+      "hash": "9809e734e9f449bb4f410eddb2418263e4a55536"
+    },
+    {
+      "path": "mods/[键位冲突显示] Controlling-forge-1.20.1-12.0.2.jar",
+      "hash": "f6d3cdd3ec68c5590cf5b2e89c38dbf031824bfd"
+    },
+    {
+      "path": "mods/[镁／铷：动态光源] dynamiclightsreforged-1.20.1_v1.6.0.jar",
+      "hash": "323498a94ba91e24417c0ae1bc34bb4b461c0a3a"
+    },
+    {
+      "path": "mods/[镭] radium-mc1.20.1-0.12.3+git.50c5c33.jar",
+      "hash": "c498557a39250523a29a40678ae86f1c03d757c0"
+    },
+    {
+      "path": "mods/[附魔描述] EnchantmentDescriptions-Forge-1.20.1-17.0.14.jar",
+      "hash": "c588f932dcb7796ad6d334abd43777e718957058"
+    },
+    {
+      "path": "mods/[鼠标手势] MouseTweaks-forge-mc1.20-2.25.jar",
+      "hash": "f3e8805d706a36717306d92bd5c45cb2aef854b6"
+    },
+    {
+      "path": "options.txt",
+      "hash": "45410a16d51657e8e85152c27fa42022fb9eecf4"
+    },
+    {
+      "path": "patchouli_data.json",
+      "hash": "231380073231d2812497b2be8d12dd38fef3ead8"
+    },
+    {
+      "path": "PCL/Setup.ini",
+      "hash": "a516ca390198172cb962178796293103375aeedb"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/advancements/922ede8d-39c0-4088-883f-d5809275ae38.json",
+      "hash": "9caeac63fe7737da9d08fe36bc77cb21b8e07914"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/advancements/a94ac3e4-47b5-3ec9-9ec4-e1061605c478.json",
+      "hash": "81c1f4525bce63fa2db651233ab260832ff8386e"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/advancements/cd903457-2098-4a51-88af-e07ae23db4b9.json",
+      "hash": "f3af7b489b1ac473dacf3d474ffb1529d0d377e0"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/advancements/cdee6c74-9f50-3422-969a-6538051dd299.json",
+      "hash": "e35a73709de87c614db0757da0354b7d275e7e7f"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/advancements/fb49ef38-5229-4c13-aafa-6fe83231d407.json",
+      "hash": "945498b54b457324f27122d576e2bcbba41dde4d"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/data/raids.dat",
+      "hash": "bffbee81056950e3e0f71ec30cc4d2a24363f41c"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/data/random_sequences.dat",
+      "hash": "5194f2000a4c46bae2bc9a5bc6a5541504835a5c"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/DIM-1/data/raids.dat",
+      "hash": "bffbee81056950e3e0f71ec30cc4d2a24363f41c"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/DIM-1/entities/r.-1.-1.mca",
+      "hash": "02db185c5c7f6b7c323f845c1e39d12dfa8f9666"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/DIM-1/entities/r.-1.0.mca",
+      "hash": "a639b755a6c4177d3fcaf91051f1d3dcb742f906"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/DIM-1/entities/r.0.-1.mca",
+      "hash": "39890f897bc78041555d532ca82333e45d8b66b4"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/DIM-1/entities/r.0.0.mca",
+      "hash": "8f2ecbebf793c44bafb04e3cd38cf0917142b2b9"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/DIM-1/poi/r.-1.-1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/DIM-1/poi/r.-1.0.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/DIM-1/poi/r.-1.1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/DIM-1/poi/r.0.-1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/DIM-1/poi/r.0.0.mca",
+      "hash": "1aa79f0e1be7fe56ddf4d64eaca2dcebe3ad03fd"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/DIM-1/poi/r.0.1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/DIM-1/region/r.-1.-1.mca",
+      "hash": "1754951eb91f6122346180d70756a71eafd9fb89"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/DIM-1/region/r.-1.0.mca",
+      "hash": "3a284cfa976f43b9fa78873b46d33d851ae484f8"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/DIM-1/region/r.-1.1.mca",
+      "hash": "e80a2dbda9108d16b9824c0d1e922fcb16eea5a0"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/DIM-1/region/r.0.-1.mca",
+      "hash": "c589e8a88677546565eaa438ab9ea3f507069f12"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/DIM-1/region/r.0.0.mca",
+      "hash": "191532dc5933f22f264febacab1a71df8f601125"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/DIM-1/region/r.0.1.mca",
+      "hash": "6ee1e3b97e7125ca19aeddf2d51ee3b4957c349b"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/DIM1/data/raids_end.dat",
+      "hash": "bffbee81056950e3e0f71ec30cc4d2a24363f41c"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/entities/r.-1.-1.mca",
+      "hash": "bf4cc2ad3df5f16c8a0e1ed6eb9083bb39a15f4d"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/entities/r.-1.-2.mca",
+      "hash": "2fd53d44e8d27bf4f600d552de40ec84fd6d97c5"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/entities/r.-1.0.mca",
+      "hash": "7f25990d1c48bd7361f4c7db5c2e7df4d0255948"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/entities/r.-1.1.mca",
+      "hash": "78f52be3cf8693023c7e591dc7effeb10ae9af2e"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/entities/r.-2.-1.mca",
+      "hash": "5598291b3b38de1e66d4beb391a6f456dec01dc2"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/entities/r.-2.0.mca",
+      "hash": "96a9e49a79148abd13bb7c5817ac068e6c80087b"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/entities/r.0.-1.mca",
+      "hash": "3dbdf8b7a121797380d43275ed491973763abe83"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/entities/r.0.-2.mca",
+      "hash": "73aae2a9728dad52292ce71be70cf6b88a58cce2"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/entities/r.0.0.mca",
+      "hash": "06114187bdf3f3b7894fb458a99f6b2e422c7c9d"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/entities/r.0.1.mca",
+      "hash": "8da897f789e1607a57190191176d6467b145b391"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/entities/r.0.2.mca",
+      "hash": "119251a0a10390175ed50bb7869c1f8fdae2cfa9"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/entities/r.1.-1.mca",
+      "hash": "6d11890a930bdbb516b77ac2de54982c2cc42882"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/entities/r.1.-2.mca",
+      "hash": "f5720b223c6a96517118988604af28abf4da79a2"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/entities/r.1.0.mca",
+      "hash": "f280c736205952fb0e6bca0a7830b86b198ca08c"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/entities/r.1.1.mca",
+      "hash": "4bd7dbc03c6e58e67a9d9ed3c4df17e8c215995d"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/entities/r.1.2.mca",
+      "hash": "ecabce9dfe64e6e4c5640bee0b1926032ab7c6ca"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/entities/r.2.1.mca",
+      "hash": "84ac9ce26f38a10d9d189c639728348d91144d10"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/entities/r.2.2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/icon.png",
+      "hash": "d5ec3ea37e64d1b46091f12e91d0182f4094651c"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/level.dat",
+      "hash": "5f51146a7b2d7185dd676d4ec05bd02bbb21331e"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/level.dat_old",
+      "hash": "0493eda1b0286e16756506a20a80ae69cbf02895"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/playerdata/922ede8d-39c0-4088-883f-d5809275ae38.dat",
+      "hash": "537222d372a627f0c8eeeb964dd85873e2393601"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/playerdata/922ede8d-39c0-4088-883f-d5809275ae38.dat_old",
+      "hash": "f01feaadba78395dc2338a19ab598dd570e08e70"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/playerdata/a94ac3e4-47b5-3ec9-9ec4-e1061605c478.dat",
+      "hash": "395b4c475f5843d4f3ae905628480287c8f2dded"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/playerdata/a94ac3e4-47b5-3ec9-9ec4-e1061605c478.dat_old",
+      "hash": "58294c8a41c16774a075c84b8d8ca2b069f5cd17"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/playerdata/cd903457-2098-4a51-88af-e07ae23db4b9.dat",
+      "hash": "39b2bf632386d1463396d733019c7eb8c2c2b84c"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/playerdata/cd903457-2098-4a51-88af-e07ae23db4b9.dat_old",
+      "hash": "39dce87394a995442310cd8d0ad5244245d68f44"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/playerdata/cdee6c74-9f50-3422-969a-6538051dd299.dat",
+      "hash": "3f39591896ad44b8a52355e07f6636750634e27e"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/playerdata/cdee6c74-9f50-3422-969a-6538051dd299.dat_old",
+      "hash": "80e39c2b2d65f5a2a1d3129500dd259254735730"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/playerdata/fb49ef38-5229-4c13-aafa-6fe83231d407.dat",
+      "hash": "2bf83b8b56fb232e435e83b5ddb72028ba772f72"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/playerdata/fb49ef38-5229-4c13-aafa-6fe83231d407.dat_old",
+      "hash": "d4316baa0d3249e6b77ed522cf6549be69484515"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/poi/r.-1.-1.mca",
+      "hash": "ad486c0185207c49b80c060400d39ae771557dd3"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/poi/r.-1.-2.mca",
+      "hash": "e105cf2b8384d47c6d8d14bbfc74e490ec7c1e73"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/poi/r.-1.0.mca",
+      "hash": "a5a5731e43bf10c7dbafc92e99352701ad3a6f4c"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/poi/r.-1.1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/poi/r.-2.-1.mca",
+      "hash": "f9579f9a1b0645d3d506c196fd7ffcd6544e69bd"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/poi/r.-2.0.mca",
+      "hash": "03c896604098a5fbd1a361f0a8a1b2194d7efed2"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/poi/r.0.-1.mca",
+      "hash": "1ac40f0fe9b9cbb79b1640375558b2cb338ee2a6"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/poi/r.0.-2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/poi/r.0.0.mca",
+      "hash": "a8bb3b2ffb60f0d295be921b660e3203301d6280"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/poi/r.0.1.mca",
+      "hash": "1a7efbb420a01114e94bd46bc198a649a3a6019d"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/poi/r.1.-1.mca",
+      "hash": "fa6d33541a9e06dea32874a2ab0c2e4e98731453"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/poi/r.1.-2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/poi/r.1.0.mca",
+      "hash": "635b376121e7e5da38dff74f2e2f0e8f471357cc"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/poi/r.1.1.mca",
+      "hash": "81e513ef3f567f7d1899bb62769c2cadcc54d1c0"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.-1.-1.mca",
+      "hash": "f888755961dce67ff9971c6da0bf863591747e1d"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.-1.-2.mca",
+      "hash": "f356c23afa1fe2f156b370fdb5dc2fd0ca186fa3"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.-1.-3.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.-1.-5.mca",
+      "hash": "7891767e69b83363bfbac23f875d14bd156a7b11"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.-1.0.mca",
+      "hash": "f8f78a48a7f8597d53d7b099fb1a6f16f5952697"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.-1.1.mca",
+      "hash": "771902b09fa6bc31b739cee4dc00560e8004efc4"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.-1.2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.-2.-1.mca",
+      "hash": "0a42c3fbe6ca8a750b7db1b08ae8dda45f79554c"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.-2.-2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.-2.-4.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.-2.-5.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.-2.-6.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.-2.0.mca",
+      "hash": "f7c58262e51998a9e935490480b21f7336257f72"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.-2.1.mca",
+      "hash": "b7aa87ea517f3ddce70e351edd6db377e0a03bc5"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.-2.3.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.-3.-1.mca",
+      "hash": "a450f4f572dabb6012a33ac4e417279fabc0a7f3"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.-3.-2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.-3.-3.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.-3.-5.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.-3.0.mca",
+      "hash": "3577dc442742dab8e24c0fb6d1c5bf1851516e08"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.-3.2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.-3.3.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.-4.-2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.-4.-3.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.-4.-4.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.-4.-6.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.-4.0.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.-4.1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.-4.2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.-4.3.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.-5.-1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.0.-1.mca",
+      "hash": "99424a62c18fbd342ddcc616042d1cc9a87b4752"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.0.-2.mca",
+      "hash": "878e0204f5e1f99ba4691ad09c18c22d4912cad4"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.0.-3.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.0.-4.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.0.0.mca",
+      "hash": "2e643ad6a4a22a4ab09275e8f17ecf3f478494f6"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.0.1.mca",
+      "hash": "f30e4e0ff770ed9181d07c7bf09e6afeed88ef8b"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.0.2.mca",
+      "hash": "e7f7c5cc787889f9eee1b54ae7c8f300d20abf15"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.1.-1.mca",
+      "hash": "bd40c7e4d2b1274f9ad48ced99be23ec1645ba92"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.1.-2.mca",
+      "hash": "3c1df16086e787a489ef9e1514170da10d731c5c"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.1.-4.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.1.-5.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.1.0.mca",
+      "hash": "8a61e42430b16df8ee23fb68073a01fa498220aa"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.1.1.mca",
+      "hash": "f1d28c29d7c11d9e762d9d4cbed1df32c1614a22"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.1.2.mca",
+      "hash": "bf0b3791b75292b4d761948b34788e5603100f18"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.2.-1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.2.-2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.2.-4.mca",
+      "hash": "5b70b46a0b38ce1fab4cf6475f0a348fc98ba912"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.2.0.mca",
+      "hash": "c7f898b54f09fc9a7998089a9a001ade1991df7e"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.2.1.mca",
+      "hash": "a54075324d17e519da622b3eef0f16c83093de80"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.2.2.mca",
+      "hash": "6fba39504813270797c6320f6fdf5eeca644f1a8"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.3.-1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.3.-2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.3.-3.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.3.-5.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.3.0.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.3.1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/region/r.3.2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/session.lock",
+      "hash": "2686137311c038a99622242fdb662b88c221c08d"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/stats/922ede8d-39c0-4088-883f-d5809275ae38.json",
+      "hash": "f4b2d72767e25b7bf9ba53b02aac8ba2fe844147"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/stats/a94ac3e4-47b5-3ec9-9ec4-e1061605c478.json",
+      "hash": "3dfc1ace0b087ca60d71e5773518bb162d747f23"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/stats/cd903457-2098-4a51-88af-e07ae23db4b9.json",
+      "hash": "98a0c0b50f5c9d0ea5e5b359202f6ccbc16342de"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/stats/cdee6c74-9f50-3422-969a-6538051dd299.json",
+      "hash": "776cc4c2386e2a56e5693af693ef83637c01993a"
+    },
+    {
+      "path": "saves/天中F5方程式赛车手x5/stats/fb49ef38-5229-4c13-aafa-6fe83231d407.json",
+      "hash": "b1f6dc366f8f54be8cb781e32e47d0b335d70ce6"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/advancements/922ede8d-39c0-4088-883f-d5809275ae38.json",
+      "hash": "9caeac63fe7737da9d08fe36bc77cb21b8e07914"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/advancements/a94ac3e4-47b5-3ec9-9ec4-e1061605c478.json",
+      "hash": "81c1f4525bce63fa2db651233ab260832ff8386e"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/advancements/cd903457-2098-4a51-88af-e07ae23db4b9.json",
+      "hash": "f3af7b489b1ac473dacf3d474ffb1529d0d377e0"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/advancements/cdee6c74-9f50-3422-969a-6538051dd299.json",
+      "hash": "e35a73709de87c614db0757da0354b7d275e7e7f"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/advancements/fb49ef38-5229-4c13-aafa-6fe83231d407.json",
+      "hash": "d924d5b435f35c06702cd8d663eb4ac4afaaef4d"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/data/ae2_compass_0_0.dat",
+      "hash": "e233a408e60990f228d46a5ca42db259d5fe9f85"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/data/capabilities.dat",
+      "hash": "a3f40d136e664b062619bd08c506f949f47a0705"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/data/JMPlayerSettings.dat",
+      "hash": "ea19eb35287e06cb9980494f621014a2e81e7988"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/data/raids.dat",
+      "hash": "9788f9bb77599bb876c5e254dbc5b73e66ad7051"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/data/random_sequences.dat",
+      "hash": "35a531349e9db672f7da25f03278d30b7eb8dbd1"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/data/sophisticatedbackpacks.dat",
+      "hash": "63409d9b915d2737190f3928522dd05057596a1d"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/data/WorldUUID.dat",
+      "hash": "ce31b9a2b7817a0dd1ab580f85f57ce1d8a8c503"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/DIM-1/data/capabilities.dat",
+      "hash": "a3f40d136e664b062619bd08c506f949f47a0705"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/DIM-1/data/raids.dat",
+      "hash": "9788f9bb77599bb876c5e254dbc5b73e66ad7051"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/DIM-1/entities/r.-1.-1.mca",
+      "hash": "02db185c5c7f6b7c323f845c1e39d12dfa8f9666"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/DIM-1/entities/r.-1.0.mca",
+      "hash": "a639b755a6c4177d3fcaf91051f1d3dcb742f906"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/DIM-1/entities/r.0.-1.mca",
+      "hash": "39890f897bc78041555d532ca82333e45d8b66b4"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/DIM-1/entities/r.0.0.mca",
+      "hash": "8f2ecbebf793c44bafb04e3cd38cf0917142b2b9"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/DIM-1/poi/r.-1.-1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/DIM-1/poi/r.-1.0.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/DIM-1/poi/r.-1.1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/DIM-1/poi/r.0.-1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/DIM-1/poi/r.0.0.mca",
+      "hash": "1aa79f0e1be7fe56ddf4d64eaca2dcebe3ad03fd"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/DIM-1/poi/r.0.1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/DIM-1/region/r.-1.-1.mca",
+      "hash": "1754951eb91f6122346180d70756a71eafd9fb89"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/DIM-1/region/r.-1.0.mca",
+      "hash": "3a284cfa976f43b9fa78873b46d33d851ae484f8"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/DIM-1/region/r.-1.1.mca",
+      "hash": "e80a2dbda9108d16b9824c0d1e922fcb16eea5a0"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/DIM-1/region/r.0.-1.mca",
+      "hash": "c589e8a88677546565eaa438ab9ea3f507069f12"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/DIM-1/region/r.0.0.mca",
+      "hash": "191532dc5933f22f264febacab1a71df8f601125"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/DIM-1/region/r.0.1.mca",
+      "hash": "6ee1e3b97e7125ca19aeddf2d51ee3b4957c349b"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/DIM1/data/capabilities.dat",
+      "hash": "a3f40d136e664b062619bd08c506f949f47a0705"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/DIM1/data/raids_end.dat",
+      "hash": "9788f9bb77599bb876c5e254dbc5b73e66ad7051"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/dimensions/ae2/spatial_storage/data/capabilities.dat",
+      "hash": "a3f40d136e664b062619bd08c506f949f47a0705"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/dimensions/ae2/spatial_storage/data/raids.dat",
+      "hash": "c851f56b0787e61cf9245e765d35adb2ae26fc1d"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/entities/r.-1.-1.mca",
+      "hash": "15f1a265b4ebb2aea553962c728e4f5f4b48c832"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/entities/r.-1.-2.mca",
+      "hash": "2fd53d44e8d27bf4f600d552de40ec84fd6d97c5"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/entities/r.-1.0.mca",
+      "hash": "6507b27a8be294a0ac0ac5d4982ffc7aed88d5fc"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/entities/r.-1.1.mca",
+      "hash": "78f52be3cf8693023c7e591dc7effeb10ae9af2e"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/entities/r.-2.-1.mca",
+      "hash": "5598291b3b38de1e66d4beb391a6f456dec01dc2"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/entities/r.-2.0.mca",
+      "hash": "96a9e49a79148abd13bb7c5817ac068e6c80087b"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/entities/r.0.-1.mca",
+      "hash": "7fbed763a9d447f60ab53709d93f51ed3fd57396"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/entities/r.0.-2.mca",
+      "hash": "73aae2a9728dad52292ce71be70cf6b88a58cce2"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/entities/r.0.0.mca",
+      "hash": "acaf7e545972a3aadc227a7a230dbcc16fd968c9"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/entities/r.0.1.mca",
+      "hash": "8da897f789e1607a57190191176d6467b145b391"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/entities/r.0.2.mca",
+      "hash": "119251a0a10390175ed50bb7869c1f8fdae2cfa9"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/entities/r.1.-1.mca",
+      "hash": "2ffaf549369bda5633fd5e0bb2df75ac724b34ef"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/entities/r.1.-2.mca",
+      "hash": "f5720b223c6a96517118988604af28abf4da79a2"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/entities/r.1.0.mca",
+      "hash": "f280c736205952fb0e6bca0a7830b86b198ca08c"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/entities/r.1.1.mca",
+      "hash": "4bd7dbc03c6e58e67a9d9ed3c4df17e8c215995d"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/entities/r.1.2.mca",
+      "hash": "ecabce9dfe64e6e4c5640bee0b1926032ab7c6ca"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/entities/r.2.1.mca",
+      "hash": "84ac9ce26f38a10d9d189c639728348d91144d10"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/entities/r.2.2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/icon.png",
+      "hash": "d5ec3ea37e64d1b46091f12e91d0182f4094651c"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/level.dat",
+      "hash": "cbcf6a14f5197b02e9405d1cea4d933367541901"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/level.dat_old",
+      "hash": "c0c00d0786df7e1b82c989b757c083e02c741ebd"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/playerdata/922ede8d-39c0-4088-883f-d5809275ae38.dat",
+      "hash": "537222d372a627f0c8eeeb964dd85873e2393601"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/playerdata/922ede8d-39c0-4088-883f-d5809275ae38.dat_old",
+      "hash": "f01feaadba78395dc2338a19ab598dd570e08e70"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/playerdata/a94ac3e4-47b5-3ec9-9ec4-e1061605c478.dat",
+      "hash": "395b4c475f5843d4f3ae905628480287c8f2dded"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/playerdata/a94ac3e4-47b5-3ec9-9ec4-e1061605c478.dat_old",
+      "hash": "58294c8a41c16774a075c84b8d8ca2b069f5cd17"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/playerdata/cd903457-2098-4a51-88af-e07ae23db4b9.dat",
+      "hash": "39b2bf632386d1463396d733019c7eb8c2c2b84c"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/playerdata/cd903457-2098-4a51-88af-e07ae23db4b9.dat_old",
+      "hash": "39dce87394a995442310cd8d0ad5244245d68f44"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/playerdata/cdee6c74-9f50-3422-969a-6538051dd299.dat",
+      "hash": "3f39591896ad44b8a52355e07f6636750634e27e"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/playerdata/cdee6c74-9f50-3422-969a-6538051dd299.dat_old",
+      "hash": "80e39c2b2d65f5a2a1d3129500dd259254735730"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/playerdata/fb49ef38-5229-4c13-aafa-6fe83231d407.dat",
+      "hash": "16a376e0d912ae6df5b67b4ff971ab75dfccea61"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/playerdata/fb49ef38-5229-4c13-aafa-6fe83231d407.dat_old",
+      "hash": "6a2900dbc853e71ef9604b43809f8e9a81e206f5"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/poi/r.-1.-1.mca",
+      "hash": "ee314f40c9ae20803f09c3154e96d8e8a1c11cf8"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/poi/r.-1.-2.mca",
+      "hash": "e105cf2b8384d47c6d8d14bbfc74e490ec7c1e73"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/poi/r.-1.0.mca",
+      "hash": "0c5757075d3e8b9d156d88616bc4100ff84bfe29"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/poi/r.-1.1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/poi/r.-2.-1.mca",
+      "hash": "f9579f9a1b0645d3d506c196fd7ffcd6544e69bd"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/poi/r.-2.0.mca",
+      "hash": "03c896604098a5fbd1a361f0a8a1b2194d7efed2"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/poi/r.0.-1.mca",
+      "hash": "e9b8aecdf5b1a13f93c87fa96534b28a46b897ce"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/poi/r.0.-2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/poi/r.0.0.mca",
+      "hash": "768a776e05e4561c837a9c69205ae4a123e6f150"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/poi/r.0.1.mca",
+      "hash": "1a7efbb420a01114e94bd46bc198a649a3a6019d"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/poi/r.1.-1.mca",
+      "hash": "948f76a26d8b3ac87f59b33f9b06ec237811f026"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/poi/r.1.-2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/poi/r.1.0.mca",
+      "hash": "635b376121e7e5da38dff74f2e2f0e8f471357cc"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/poi/r.1.1.mca",
+      "hash": "81e513ef3f567f7d1899bb62769c2cadcc54d1c0"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.-1.-1.mca",
+      "hash": "102bdc09c533f98e29624c59b4efff6de3c6ae88"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.-1.-2.mca",
+      "hash": "f356c23afa1fe2f156b370fdb5dc2fd0ca186fa3"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.-1.-3.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.-1.-5.mca",
+      "hash": "7891767e69b83363bfbac23f875d14bd156a7b11"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.-1.0.mca",
+      "hash": "95937ae75fd2071e4ad38d91b8ab23ddba0aafc6"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.-1.1.mca",
+      "hash": "771902b09fa6bc31b739cee4dc00560e8004efc4"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.-1.2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.-2.-1.mca",
+      "hash": "0a42c3fbe6ca8a750b7db1b08ae8dda45f79554c"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.-2.-2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.-2.-4.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.-2.-5.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.-2.-6.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.-2.0.mca",
+      "hash": "f7c58262e51998a9e935490480b21f7336257f72"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.-2.1.mca",
+      "hash": "b7aa87ea517f3ddce70e351edd6db377e0a03bc5"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.-2.3.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.-3.-1.mca",
+      "hash": "a450f4f572dabb6012a33ac4e417279fabc0a7f3"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.-3.-2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.-3.-3.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.-3.-5.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.-3.0.mca",
+      "hash": "3577dc442742dab8e24c0fb6d1c5bf1851516e08"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.-3.2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.-3.3.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.-4.-2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.-4.-3.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.-4.-4.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.-4.-6.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.-4.0.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.-4.1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.-4.2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.-4.3.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.-5.-1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.0.-1.mca",
+      "hash": "cd890da188bc14285b8876dfee88270e60c9c0d2"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.0.-2.mca",
+      "hash": "9c953f3f82b8d7c5fac3b49e8f0b1647900ef79d"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.0.-3.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.0.-4.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.0.0.mca",
+      "hash": "90e18487d0ba0c696227cba868cb7d36b3413ecb"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.0.1.mca",
+      "hash": "f30e4e0ff770ed9181d07c7bf09e6afeed88ef8b"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.0.2.mca",
+      "hash": "e7f7c5cc787889f9eee1b54ae7c8f300d20abf15"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.1.-1.mca",
+      "hash": "6f263077f6e0fdb98087d84f8051b5bd322338a3"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.1.-2.mca",
+      "hash": "60ed46004fca3dc6c36a247be9fb7d60f4b09559"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.1.-4.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.1.-5.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.1.0.mca",
+      "hash": "b05ad75654328f57909fedde632eecb7d11fb348"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.1.1.mca",
+      "hash": "f1d28c29d7c11d9e762d9d4cbed1df32c1614a22"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.1.2.mca",
+      "hash": "bf0b3791b75292b4d761948b34788e5603100f18"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.2.-1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.2.-2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.2.-4.mca",
+      "hash": "5b70b46a0b38ce1fab4cf6475f0a348fc98ba912"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.2.0.mca",
+      "hash": "c7f898b54f09fc9a7998089a9a001ade1991df7e"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.2.1.mca",
+      "hash": "a54075324d17e519da622b3eef0f16c83093de80"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.2.2.mca",
+      "hash": "6fba39504813270797c6320f6fdf5eeca644f1a8"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.3.-1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.3.-2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.3.-3.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.3.-5.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.3.0.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.3.1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/region/r.3.2.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/serverconfig/computercraft-server.toml",
+      "hash": "89b692dee3cd408842689198787fdd0962bbc647"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/serverconfig/curios-server.toml",
+      "hash": "9a7d58ca074e2b9ca69132b2f39fe595c96924b2"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/serverconfig/forge-server.toml",
+      "hash": "d4c566a1e7f9208da9f3cc5771b60206630ab3f3"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/serverconfig/jei-server.toml",
+      "hash": "7cf9a231124b7ab40c80fbcf0e07cc020647a5dd"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/serverconfig/journeymap-server.toml",
+      "hash": "21905b29eacc325a4918fc785054e24c258ec0ec"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/serverconfig/sophisticatedbackpacks-server.toml",
+      "hash": "345aaaa6f258d120822f529338d26859b14c9e3d"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/session.lock",
+      "hash": "2686137311c038a99622242fdb662b88c221c08d"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/stats/922ede8d-39c0-4088-883f-d5809275ae38.json",
+      "hash": "f4b2d72767e25b7bf9ba53b02aac8ba2fe844147"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/stats/a94ac3e4-47b5-3ec9-9ec4-e1061605c478.json",
+      "hash": "3dfc1ace0b087ca60d71e5773518bb162d747f23"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/stats/cd903457-2098-4a51-88af-e07ae23db4b9.json",
+      "hash": "98a0c0b50f5c9d0ea5e5b359202f6ccbc16342de"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/stats/cdee6c74-9f50-3422-969a-6538051dd299.json",
+      "hash": "776cc4c2386e2a56e5693af693ef83637c01993a"
+    },
+    {
+      "path": "saves/天中F6方程式赛车手x6/stats/fb49ef38-5229-4c13-aafa-6fe83231d407.json",
+      "hash": "8fc4db541df01c910a2b4e4c7622cbcf549dcd0d"
+    }
+  ],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.20.1"
+    },
+    {
+      "id": "forge",
+      "version": "47.2.23"
+    }
+  ]
+}
