@@ -33,7 +33,7 @@ twitter_username:   JoeMichaelQiao
 permalink: pretty
 paginate: 10
 include: ["modpacks"]
-keep_files: ["modpacks/TJHSF6CarRacerX6"]
+keep_files: ["files"]
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
