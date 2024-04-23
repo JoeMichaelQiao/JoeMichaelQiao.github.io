@@ -6,7 +6,7 @@
         <TextBlock Margin="0,0,0,4" FontSize="13" Foreground="{DynamicResource ColorBrush1}"
                     Text="天中F6方程式赛车手x6的帮助中心！想在这个界面看到别的什么或者排版建议都可以来找JoeMichaelQiao" />
         <local:MyButton Margin="0,8,0,8" Width="400" Height="35"
-                    Text="下载Dev.0.26版本整合包（不建议）" EventType="打开网页" EventData="https://caiyun.139.com/m/i?1R5BUIYO4szZg" ToolTip="提取码:3Vps" />
+                    Text="下载Dev.0.26版本整合包（不建议）" EventType="打开网页" EventData="https://caiyun.139.com/m/i?1R5BUcYaks4By" ToolTip="提取码:3Vps" />
     </StackPanel>
 </local:MyCard>
 
