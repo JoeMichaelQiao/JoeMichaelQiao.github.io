@@ -16,11 +16,11 @@
         <local:MyListItem Margin="-5,2,-5,8"
              Logo="pack://application:,,,/images/Blocks/Grass.png"
              Title="下载Dev.0.39版本整合包" Info="提取码:PdRk"
-             EventType="打开网页" EventData="https://caiyun.139.com/m/i?1R5BTK7EVPJHJ" ToolTip="真的建议！&#xA;从这个版本开始，支持点击上边的启动按钮老连接至服务器啦！&#xA;提取码是：PdRk" Type="Clickable" />
+             EventType="打开网页" EventData="https://caiyun.139.com/m/i?1R5BTK7EVPJHJ&pwd=PdRk" ToolTip="真的建议！&#xA;从这个版本开始，支持点击上边的启动按钮老连接至服务器啦！&#xA;提取码是：PdRk" Type="Clickable" />
         <local:MyListItem Margin="-5,2,-5,8"
              Logo="pack://application:,,,/images/Blocks/Grass.png"
              Title="下载Dev.0.26版本整合包（不建议）" Info="提取码:3Vps"
-             EventType="打开网页" EventData="https://caiyun.139.com/m/i?1R5BUcYaks4By" ToolTip="真的不建议！&#xA;但如果你一定要下载的话...&#xA;提取码是：3Vps" Type="Clickable" />
+             EventType="打开网页" EventData="https://caiyun.139.com/m/i?1R5BUcYaks4By&pwd=3Vps" ToolTip="真的不建议！&#xA;但如果你一定要下载的话...&#xA;提取码是：3Vps" Type="Clickable" />
         <local:MyHint Margin="0,0,0,15" Text="NULL" IsWarn="False" />
         <local:MyButton Margin="0,8,0,8" Width="400" Height="35"
              Text="下载Dev.0.26版本整合包（不建议）" />
