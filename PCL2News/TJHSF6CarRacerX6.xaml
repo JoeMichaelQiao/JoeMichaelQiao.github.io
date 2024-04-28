@@ -1,13 +1,22 @@
 <!-- 代码很乱，小白写的，仅供参考。 -->
 <!-- 轻喷 -->
 
+<local:MyCard Title="更新公告！" CanSwap="True" IsSwaped="false" Margin="0,0,0,15">
+    <StackPanel Margin="25,40,23,15">
+        <TextBlock Margin="0,0,0,4" TextWrapping="Wrap" FontSize="13" Foreground="{DynamicResource ColorBrush1}"
+             Text="整合包版本已更新到 Dev.0.39 ，服务器已同步更新，请更新后再加入服务器。&#xA;在每次更新整合包前，请删除上一个版本的整合包&#xA;现在支持点击下面的启动按钮直接进入服务器啦！（但是服务器连接不及时更新，所以...）&#xA;加入了更好用的 FTB 连锁挖掘而移除了不很好用的（很不好用的）矿石挖掘 (Ore Excavation)" />
+    </StackPanel>
+</local:MyCard>
+
 <local:MyCard Title="天中F6方程式赛车手x6の帮助中心" Margin="0,0,0,15">
     <StackPanel Margin="25,40,23,15">
         <TextBlock Margin="0,0,0,4" TextWrapping="Wrap" FontSize="13" Foreground="{DynamicResource ColorBrush1}"
              Text="天中F6方程式赛车手x6的帮助中心！想在这个界面看到别的什么或者排版建议都可以来找JoeMichaelQiao" />
+        <TextBlock Margin="0,0,0,4" TextWrapping="Wrap" FontSize="13" FontWeight="Bold" Foreground="{DynamicResource ColorBrush1}"
+             Text="在每次更新整合包前，请删除上一个版本的整合包" />
         <TextBlock Margin="0,0,0,4" FontSize="13" Foreground="{DynamicResource ColorBrush1}"
              Text="目前的服务器网址是：" />
-        <local:MyTextButton Text="bj2.mossfrp.cn:43581" EventType="复制文本" EventData="bj2.mossfrp.cn:43581" ToolTip="点击该按钮，将连接复制到剪切板，加入游戏！&#xA;Minecraft，爽！" />
+        <local:MyTextButton Margin="0,0,0,4" Text="bj2.mossfrp.cn:43581" EventType="复制文本" EventData="bj2.mossfrp.cn:43581" ToolTip="点击该按钮，将连接复制到剪切板，加入游戏！&#xA;Minecraft，爽！" />
         <local:MyListItem Margin="-5,2,-5,8"
              Logo="pack://application:,,,/images/Blocks/Grass.png"
              Title="天中F6方程式赛车手x6，启动！" Info="启动整合包并连接服务器（服务器网址可能更新不及时，建议手动连接）"
@@ -16,11 +25,11 @@
         <local:MyListItem Margin="-5,2,-5,8"
              Logo="pack://application:,,,/images/Blocks/Grass.png"
              Title="下载Dev.0.39版本整合包" Info="提取码:PdRk"
-             EventType="打开网页" EventData="https://caiyun.139.com/m/i?1R5BTK7EVPJHJ&pwd=PdRk" ToolTip="真的建议！&#xA;从这个版本开始，支持点击上边的启动按钮老连接至服务器啦！&#xA;提取码是：PdRk" Type="Clickable" />
+             EventType="打开网页" EventData="https://caiyun.139.com/m/i?1R5BTK7EVPJHJ&amp;=PdRk" ToolTip="真的建议！&#xA;从这个版本开始，支持点击上边的启动按钮老连接至服务器啦！&#xA;不仅如此，我们还加入更好用的了FTB连锁挖掘！&#xA;提取码是：PdRk" Type="Clickable" />
         <local:MyListItem Margin="-5,2,-5,8"
              Logo="pack://application:,,,/images/Blocks/Grass.png"
              Title="下载Dev.0.26版本整合包（不建议）" Info="提取码:3Vps"
-             EventType="打开网页" EventData="https://caiyun.139.com/m/i?1R5BUcYaks4By&pwd=3Vps" ToolTip="真的不建议！&#xA;但如果你一定要下载的话...&#xA;提取码是：3Vps" Type="Clickable" />
+             EventType="打开网页" EventData="https://caiyun.139.com/m/i?1R5BUcYaks4By&amp;pwd=3Vps" ToolTip="真的不建议！&#xA;但如果你一定要下载的话...&#xA;提取码是：3Vps" Type="Clickable" />
         <local:MyHint Margin="0,0,0,15" Text="NULL" IsWarn="False" />
         <local:MyButton Margin="0,8,0,8" Width="400" Height="35"
              Text="下载Dev.0.26版本整合包（不建议）" />
