@@ -25,7 +25,7 @@
         <local:MyListItem Margin="-5,2,-5,8"
              Logo="pack://application:,,,/images/Blocks/Grass.png"
              Title="下载Dev.0.39版本整合包" Info="提取码:PdRk"
-             EventType="打开网页" EventData="https://caiyun.139.com/m/i?1R5BTK7EVPJHJ&amp;=PdRk" ToolTip="真的建议！&#xA;从这个版本开始，支持点击上边的启动按钮老连接至服务器啦！&#xA;不仅如此，我们还加入更好用的了FTB连锁挖掘！&#xA;提取码是：PdRk" Type="Clickable" />
+             EventType="打开网页" EventData="https://caiyun.139.com/m/i?1R5BTK7EVPJHJ&amp;pwd=PdRk" ToolTip="真的建议！&#xA;从这个版本开始，支持点击上边的启动按钮老连接至服务器啦！&#xA;不仅如此，我们还加入更好用的了FTB连锁挖掘！&#xA;提取码是：PdRk" Type="Clickable" />
         <local:MyListItem Margin="-5,2,-5,8"
              Logo="pack://application:,,,/images/Blocks/Grass.png"
              Title="下载Dev.0.26版本整合包（不建议）" Info="提取码:3Vps"
