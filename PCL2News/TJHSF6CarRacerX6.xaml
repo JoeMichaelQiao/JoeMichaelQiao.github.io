@@ -16,9 +16,9 @@
                 Text="在每次更新整合包前，请删除上一个版本的整合包" />
           <TextBlock Margin="0,0,0,4" FontSize="13" Foreground="{DynamicResource ColorBrush1}"
                 Text="目前的服务器网址是：" />
-          <local:MyTextButton Margin="0,0,0,4" Text="BJ2节点：bj2.mossfrp.cn:43581" EventType="复制文本" EventData="bj2.mossfrp.cn:43581" ToolTip="点击该按钮，将连接复制到剪切板，加入游戏！&#xA;Minecraft，爽！" />
-          <local:MyTextButton Margin="0,0,0,4" Text="SH5节点：sh5.mossfrp.cn:44101" EventType="复制文本" EventData="sh5.mossfrp.cn:44101" ToolTip="点击该按钮，将连接复制到剪切板，加入游戏！&#xA;Minecraft，爽！" />
-          <local:MyHint Margin="0,0,0,4" IsWarn="True" Text="目前MossFrp提供的 BJ2 节点崩了，现在起服务器将使用新的 SH5 节点，与之前的 BJ2 节点同时运行（但在 BJ2 节点完成维护前不建议使用）" />
+          <local:MyTextButton Margin="0,0,0,4" Text="SQ2节点：sq2.mossfrp.cn:42271" EventType="复制文本" EventData="bj2.mossfrp.cn:43581" ToolTip="点击该按钮，将连接复制到剪切板，加入游戏！&#xA;Minecraft，爽！" />
+          <local:MyTextButton Margin="0,0,0,4" Text="SQ5节点：sq5.mossfrp.cn:45411" EventType="复制文本" EventData="sh5.mossfrp.cn:44101" ToolTip="点击该按钮，将连接复制到剪切板，加入游戏！&#xA;Minecraft，爽！" />
+          <local:MyHint Margin="0,0,0,4" IsWarn="True" Text="目前MossFrp提供的 BJ2 节点崩了，现在起服务器将使用新的 SQ2/5 节点" />
           <local:MyHint Margin="0,0,0,4" IsWarn="True" Text="目前 SH5 节点的网址为 sh5.mossfrp.cn:44101" EventType="复制文本" EventData="sh5.mossfrp.cn:44101" ToolTip="点击该提示，将连接复制到剪切板，加入游戏！&#xA;Minecraft，爽！" />
           <local:MyListItem Margin="-5,2,-5,8"
                 Logo="pack://application:,,,/images/Blocks/Grass.png"
