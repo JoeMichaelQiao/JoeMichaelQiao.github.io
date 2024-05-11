@@ -18,18 +18,18 @@
                 Text="目前的服务器网址是：" />
           <local:MyTextButton Margin="0,0,0,4" Text="SQ2节点：sq2.mossfrp.cn:42271" EventType="复制文本" EventData="sq2.mossfrp.cn:42271" ToolTip="点击该按钮，将连接复制到剪切板，加入游戏！&#xA;Minecraft，爽！" />
           <local:MyTextButton Margin="0,0,0,4" Text="SQ5节点：sq5.mossfrp.cn:45411" EventType="复制文本" EventData="sq5.mossfrp.cn:45411" ToolTip="点击该按钮，将连接复制到剪切板，加入游戏！&#xA;Minecraft，爽！" />
-          <local:MyHint Margin="0,0,0,4" IsWarn="True" Text="目前MossFrp提供的 BJ2 节点崩了，现在起服务器将使用新的 SQ2/5 节点" />
-          <local:MyHint Margin="0,0,0,4" IsWarn="True" Text="目前 SH5 节点的网址为 sq5.mossfrp.cn:45411" EventType="复制文本" EventData="sq5.mossfrp.cn:45411" ToolTip="点击该提示，将连接复制到剪切板，加入游戏！&#xA;Minecraft，爽！" />
+          <local:MyHint Margin="0,0,0,4" IsWarn="True" Text="目前MossFrp提供的 SQ2 节点崩了，现在起服务器将使用新的 SQ2/5 节点" />
+          <local:MyHint Margin="0,0,0,4" IsWarn="True" Text="目前 SQ5 节点的网址为 sq5.mossfrp.cn:45411" EventType="复制文本" EventData="sq5.mossfrp.cn:45411" ToolTip="点击该提示，将连接复制到剪切板，加入游戏！&#xA;Minecraft，爽！" />
           <local:MyListItem Margin="-5,2,-5,8"
                 Logo="pack://application:,,,/images/Blocks/Grass.png"
-                Title="[SQ2]天中F6方程式赛车手x6，启动！（暂时不可用）" Info="启动整合包并通过 BJ2 节点连接至服务器（暂时不可用）"
+                Title="[SQ2]天中F6方程式赛车手x6，启动！" Info="启动整合包并通过 SQ2 节点连接至服务器"
                 EventType="启动游戏" EventData="天中F6方程式赛车手x6|sq2.mossfrp.cn:42271"
-                ToolTip="启动整合包并通过 BJ2 节点连接至服务器（暂时不可用）&#xA;所以你™瞅啥？" Type="Clickable" />
+                ToolTip="启动整合包并通过 SQ2 节点连接至服务器&#xA;所以你™瞅啥？" Type="Clickable" />
           <local:MyListItem Margin="-5,2,-5,8"
                 Logo="pack://application:,,,/images/Blocks/Grass.png"
-                Title="[SQ5]天中F6方程式赛车手x6，启动！" Info="启动整合包并通过 SH5 节点连接至服务器（备用线路）（暂时不可用）"
+                Title="[SQ5]天中F6方程式赛车手x6，启动！" Info="启动整合包并通过 SQ5 节点连接至服务器（备用线路）"
                 EventType="启动游戏" EventData="天中F6方程式赛车手x6|sq5.mossfrp.cn:45411"
-                ToolTip="启动整合包并通过 SH5 节点连接至服务器（备用线路）（暂时不可用）&#xA;所以你™瞅啥？" Type="Clickable" />
+                ToolTip="启动整合包并通过 SQ5 节点连接至服务器（备用线路）&#xA;所以你™瞅啥？" Type="Clickable" />
           <local:MyListItem Margin="-5,2,-5,8"
                 Logo="pack://application:,,,/images/Blocks/Grass.png"
                 Title="下载Dev.0.39版本整合包（非常建议）" Info="提取码:PdRk"
