@@ -1,10 +1,10 @@
 <!-- 代码很乱，小白写的，仅供参考。 -->
 <!-- 轻喷 -->
 
-<local:MyCard Title="更新公告！" CanSwap="True" IsSwaped="false" Margin="0,0,0,15">
+<local:MyCard Title="Dev.0.41 更新公告！" CanSwap="True" IsSwaped="false" Margin="0,0,0,15">
     <StackPanel Margin="25,40,23,15">
         <TextBlock Margin="0,0,0,4" TextWrapping="Wrap" FontSize="13" Foreground="{DynamicResource ColorBrush1}"
-             Text="整合包版本已更新到 Dev.0.39 ，服务器已同步更新，请更新后再加入服务器。&#xA;在每次更新整合包前，请删除上一个版本的整合包&#xA;现在支持点击下面的启动按钮直接进入服务器啦！（但是服务器连接不及时更新，所以...）&#xA;加入了更好用的 FTB 连锁挖掘而移除了不很好用的（很不好用的）矿石挖掘 (Ore Excavation)" />
+             Text="整合包版本已更新到 Dev.0.41 ，服务器已同步更新，请更新后再加入服务器。&#xA;在每次更新整合包前，请删除上一个版本的整合包&#xA;现在支持点击下面的启动按钮直接进入服务器啦！（但是服务器连接不及时更新，所以...）&#xA;加入了 “尸体 (Corpse)” 模组，以后管理员大大可以看到大家的是尸体啦！&#xA;加入了 “是！史蒂夫模型 (Yes! Steve model)，可以看到可爱的娘啦~&#xA;启用了上个版本就加入但是没有启用的热力系列，共计八个模组，大家的帧率又有进一步的下降空间了，好口牙！" />
     </StackPanel>
 </local:MyCard>
 
@@ -14,26 +14,25 @@
                 Text="天中F6方程式赛车手x6的帮助中心！想在这个界面看到别的什么或者排版建议都可以来找JoeMichaelQiao" />
           <TextBlock Margin="0,0,0,4" TextWrapping="Wrap" FontSize="13" FontWeight="Bold" Foreground="{DynamicResource ColorBrush1}"
                 Text="在每次更新整合包前，请删除上一个版本的整合包" />
+          <local:MyHint Margin="0,0,0,4" IsWarn="True" Text="建议优先下载文件夹内带 “modpack” 和 “HMCL” 字样的模组" />
           <TextBlock Margin="0,0,0,4" FontSize="13" Foreground="{DynamicResource ColorBrush1}"
                 Text="目前的服务器网址是：" />
-          <local:MyTextButton Margin="0,0,0,4" Text="SQ2节点：sq2.mossfrp.cn:42271" EventType="复制文本" EventData="sq2.mossfrp.cn:42271" ToolTip="点击该按钮，将连接复制到剪切板，加入游戏！&#xA;Minecraft，爽！" />
-          <local:MyTextButton Margin="0,0,0,4" Text="SQ5节点：sq5.mossfrp.cn:45411" EventType="复制文本" EventData="sq5.mossfrp.cn:45411" ToolTip="点击该按钮，将连接复制到剪切板，加入游戏！&#xA;Minecraft，爽！" />
-          <local:MyHint Margin="0,0,0,4" IsWarn="True" Text="目前MossFrp提供的 SQ2 节点崩了，现在起服务器将使用新的 SQ2/5 节点" />
-          <local:MyHint Margin="0,0,0,4" IsWarn="True" Text="目前 SQ5 节点的网址为 sq5.mossfrp.cn:45411" EventType="复制文本" EventData="sq5.mossfrp.cn:45411" ToolTip="点击该提示，将连接复制到剪切板，加入游戏！&#xA;Minecraft，爽！" />
+          <local:MyTextButton Margin="0,0,0,4" Text="BJ2节点：bj2.mossfrp.cn:52929" EventType="复制文本" EventData="bj2.mossfrp.cn:52929" ToolTip="点击该按钮，将连接复制到剪切板，加入游戏！&#xA;Minecraft，爽！" />
+          <local:MyHint Margin="0,0,0,4" IsWarn="True" Text="服务器不再 7d*24h 运行，如果服务器开启会在微信群内及时通知" />
+          <local:MyHint Margin="0,0,0,4" IsWarn="True" Text="目前临时运行的节点为：BJ2" />
           <local:MyListItem Margin="-5,2,-5,8"
                 Logo="pack://application:,,,/images/Blocks/Grass.png"
-                Title="[SQ2]天中F6方程式赛车手x6，启动！" Info="启动整合包并通过 SQ2 节点连接至服务器"
-                EventType="启动游戏" EventData="天中F6方程式赛车手x6|sq2.mossfrp.cn:42271"
-                ToolTip="启动整合包并通过 SQ2 节点连接至服务器&#xA;所以你™瞅啥？" Type="Clickable" />
+                Title="[BJ2]天中F6方程式赛车手x6，启动！" Info="启动整合包并通过 BJ2 节点连接至服务器"
+                EventType="启动游戏" EventData="天中F6方程式赛车手x6|bj2.mossfrp.cn:52929"
+                ToolTip="启动整合包并通过 BJ2 节点连接至服务器&#xA;所以你™瞅啥？" Type="Clickable" />
           <local:MyListItem Margin="-5,2,-5,8"
                 Logo="pack://application:,,,/images/Blocks/Grass.png"
-                Title="[SQ5]天中F6方程式赛车手x6，启动！" Info="启动整合包并通过 SQ5 节点连接至服务器（备用线路）"
-                EventType="启动游戏" EventData="天中F6方程式赛车手x6|sq5.mossfrp.cn:45411"
-                ToolTip="启动整合包并通过 SQ5 节点连接至服务器（备用线路）&#xA;所以你™瞅啥？" Type="Clickable" />
+                Title="下载Dev.0.41版本整合包" Info="提取码:PdRk"
+                EventType="打开网页" EventData="https://caiyun.139.com/m/i?1R5BSu6cgriHw&amp;pwd=1MGA" ToolTip="真的建议！&#xA;从这个版本开始，支持尸体保留、死亡回放和自定义角色模型啦&#xA;好口牙！&#xA;提取码是：1MGA" Type="Clickable" />
           <local:MyListItem Margin="-5,2,-5,8"
                 Logo="pack://application:,,,/images/Blocks/Grass.png"
-                Title="下载Dev.0.39版本整合包（非常建议）" Info="提取码:PdRk"
-                EventType="打开网页" EventData="https://caiyun.139.com/m/i?1R5BTK7EVPJHJ&amp;pwd=PdRk" ToolTip="真的建议！&#xA;从这个版本开始，支持点击上边的启动按钮老连接至服务器啦！&#xA;不仅如此，我们还加入更好用的了FTB连锁挖掘！&#xA;提取码是：PdRk" Type="Clickable" />
+                Title="下载Dev.0.39版本整合包" Info="提取码:PdRk"
+                EventType="打开网页" EventData="https://caiyun.139.com/m/i?1R5BTK7EVPJHJ&amp;pwd=PdRk" ToolTip="真的建议！(bushi)&#xA;从这个版本开始，支持点击上边的启动按钮老连接至服务器啦！&#xA;不仅如此，我们还加入更好用的了FTB连锁挖掘！&#xA;提取码是：PdRk" Type="Clickable" />
           <local:MyListItem Margin="-5,2,-5,8"
                 Logo="pack://application:,,,/images/Blocks/Grass.png"
                 Title="下载Dev.0.26版本整合包（不建议）" Info="提取码:3Vps"
@@ -41,6 +40,13 @@
           <local:MyHint Margin="0,0,0,15" Text="NULL" IsWarn="False" />
           <local:MyButton Margin="0,8,0,8" Width="400" Height="35"
                 Text="下载Dev.0.26版本整合包（不建议）" />
+    </StackPanel>
+</local:MyCard>
+
+<local:MyCard Title="Dev.0.39 更新公告！" CanSwap="True" IsSwaped="True" Margin="0,0,0,15">
+    <StackPanel Margin="25,40,23,15">
+        <TextBlock Margin="0,0,0,4" TextWrapping="Wrap" FontSize="13" Foreground="{DynamicResource ColorBrush1}"
+             Text="整合包版本已更新到 Dev.0.39 ，服务器已同步更新，请更新后再加入服务器。&#xA;在每次更新整合包前，请删除上一个版本的整合包&#xA;现在支持点击下面的启动按钮直接进入服务器啦！（但是服务器连接不及时更新，所以...）&#xA;加入了更好用的 FTB 连锁挖掘而移除了不很好用的（很不好用的）矿石挖掘 (Ore Excavation)" />
     </StackPanel>
 </local:MyCard>
 
