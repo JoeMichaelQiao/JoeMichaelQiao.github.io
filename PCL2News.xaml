@@ -1,7 +1,7 @@
 <!-- 代码很乱，小白写的，仅供参考。 -->
 <!-- 轻喷 -->
 
-<local:MyCard Title="泰斯特收藏 v58.1 更新公告！" CanSwap="True" IsSwaped="false" Margin="0,0,0,15">
+<local:MyCard Title="泰斯特收藏 v58.1 更新公告及下载链接！" CanSwap="True" IsSwaped="false" Margin="0,0,0,15">
     <StackPanel Margin="25,40,23,15">
         <TextBlock Margin="0,0,0,4" TextWrapping="Wrap" FontSize="13" Foreground="{DynamicResource ColorBrush1}"
              Text="整合包版本已更新到  v58.1  ，服务器已同步更新，请更新后再加入服务器。" />
@@ -22,16 +22,36 @@
         <local:MyHint Margin="0,0,0,4"
              IsWarn="False"
              Text="新增模组 伤害数字显示" />
+        <local:MyListItem Margin="-5,2,-5,8"
+             Logo="pack://application:,,,/images/Blocks/RedstoneLampOff.png"
+             Title="[蓝奏云]下载 泰斯特收藏 v58.1 版本整合包" Info="提取码：2tk0 仅包含不包含全部文件的标准核心，安装标准核心时需网络连接"
+             EventType="打开网页" EventData="https://joemichaelqiao.lanzouq.com/b01d70kvkj"
+             ToolTip="提取码：2tk0 不是直链不是直链不是直链" Type="Clickable" />
+        <local:MyListItem Margin="-5,2,-5,8"
+             Logo="pack://application:,,,/images/Blocks/NeoForge.png"
+             Title="[移动和彩云]下载 泰斯特收藏 v58.1 版本整合包" Info="包含标准核心和离线核心"
+             EventType="打开网页" EventData="https://yun.139.com/shareweb/#/w/i/2vMBxCzhu4sdh&amp;pwd=6h30"
+             ToolTip="提取码：6h30" Type="Clickable" />
     </StackPanel>
 </local:MyCard>
 
-<local:MyCard Title="泰斯特收藏 v58 更新公告！" CanSwap="True" IsSwaped="true" Margin="0,0,0,15">
+<local:MyCard Title="泰斯特收藏 v58 更新公告及下载链接！" CanSwap="True" IsSwaped="true" Margin="0,0,0,15">
     <StackPanel Margin="25,40,23,15">
         <TextBlock Margin="0,0,0,4" TextWrapping="Wrap" FontSize="13" Foreground="{DynamicResource ColorBrush1}"
              Text="整合包版本已更新到  v58  ，服务器已同步更新，请更新后再加入服务器。&#xA;现在支持点击下面的启动按钮直接进入服务器啦！（但是服务器连接不及时更新，所以...）（话说服务器链接也不需要一直更新吧？）" />
         <local:MyHint Margin="0,0,0,4"
              IsWarn="False"
              Text="在每次更新整合包前，请删除上一个版本的整合包并重新安装新版本整合包" />
+        <local:MyListItem Margin="-5,2,-5,8"
+             Logo="pack://application:,,,/images/Blocks/RedstoneLampOff.png"
+             Title="[蓝奏云]下载 泰斯特收藏 v58 版本整合包" Info="提取码：2tk0 仅包含不包含全部文件的标准核心，安装标准核心时需网络连接"
+             EventType="打开网页" EventData="https://joemichaelqiao.lanzouq.com/b01d70kvkj"
+             ToolTip="提取码：2tk0 不是直链不是直链不是直链" Type="Clickable" />
+        <local:MyListItem Margin="-5,2,-5,8"
+             Logo="pack://application:,,,/images/Blocks/NeoForge.png"
+             Title="[移动和彩云]下载 泰斯特收藏 v58 版本整合包" Info="包含标准核心和离线核心"
+             EventType="打开网页" EventData="https://yun.139.com/shareweb/#/w/i/2vMBxCzhu4sdh&amp;pwd=6h30"
+             ToolTip="提取码：6h30" Type="Clickable" />
     </StackPanel>
 </local:MyCard>
 
@@ -60,16 +80,6 @@
                 Title="[简幻欢]启动BMC4泰斯特收藏 v58.1" Info="连接至简幻欢服务器"
                 EventType="启动游戏" EventData="BMC4泰斯特收藏 v58|play.simpfun.cn:40654"
                 ToolTip="启动泰斯特收藏 v58.1 并连接至简幻欢服务器&#xA;所以你™瞅啥？" Type="Clickable" />
-          <local:MyListItem Margin="-5,2,-5,8"
-                Logo="pack://application:,,,/images/Blocks/RedstoneLampOff.png"
-                Title="[蓝奏云]下载 泰斯特收藏 v58.1 版本整合包" Info="提取码：2tk0 仅包含不包含全部文件的标准核心，安装标准核心时需网络连接"
-                EventType="打开网页" EventData="https://joemichaelqiao.lanzouq.com/b01d70kvkj"
-                ToolTip="提取码：2tk0 不是直链不是直链不是直链" Type="Clickable" />
-          <local:MyListItem Margin="-5,2,-5,8"
-                Logo="pack://application:,,,/images/Blocks/NeoForge.png"
-                Title="[移动和彩云]下载 泰斯特收藏 v58.1 版本整合包" Info="包含标准核心和离线核心"
-                EventType="打开网页" EventData="https://yun.139.com/shareweb/#/w/i/2vMBxCzhu4sdh&amp;pwd=6h30"
-                ToolTip="提取码：6h30" Type="Clickable" />
     </StackPanel>
 </local:MyCard>
 
