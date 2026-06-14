@@ -33,7 +33,7 @@
     </StackPanel>
 </local:MyCard>
 
-<local:MyCard Title="BMC4泰斯特收藏 v58 帮助中心 —— 从蜜饼开始的客户端配置教程！" CanSwap="True" IsSwaped="true" Margin="0,0,0,15">
+<local:MyCard Title="BMC4泰斯特收藏 v58.1 帮助中心 —— 从蜜饼开始的客户端配置教程！" CanSwap="True" IsSwaped="true" Margin="0,0,0,15">
     <StackPanel Margin="25,40,23,15">
           <TextBlock Margin="0,0,0,4" TextWrapping="Wrap" FontSize="13" Foreground="{DynamicResource ColorBrush1}"
                 Text="BMC4泰斯特收藏的帮助中心！想在这个界面看到别的什么或者排版建议都可以来找乔九九本啾" />
@@ -45,12 +45,12 @@
                 EventType="打开网页" EventData="https://littleskin.cn/auth/register"
                 ToolTip="注册Littleskin皮肤站账号作为没有正版账号的补偿方案" Type="Clickable" />
           <local:MyTextButton Margin="0,0,0,4" FontSize="13" Foreground="{DynamicResource ColorBrush1}"
-                Text="-贰- 将由更新公告处下载的文件拖入此窗口，并命名为“BMC4泰斯特收藏 v58”"
-                EventType="复制文本" EventData="BMC4泰斯特收藏 v58" />
+                Text="-贰- 将由更新公告处下载的文件拖入此窗口，并命名为“BMC4泰斯特收藏 v58.1”"
+                EventType="复制文本" EventData="BMC4泰斯特收藏 v58.1" />
           <local:MyHint Margin="0,0,0,4" IsWarn="False"
-                Text="要安装整合包，只需将下载的.zip核心拖入PCL2窗口中，并在弹出的窗口中将版本命名为 “BMC4泰斯特收藏 v58” （可点击该段文字复制）即可激活下方的“启动并连接至服务器”按钮"
-                EventType="复制文本" EventData="BMC4泰斯特收藏 v58"
-                ToolTip="复制 “BMC4泰斯特收藏 v58” " />
+                Text="要安装整合包，只需将下载的.zip核心拖入PCL2窗口中，并在弹出的窗口中将版本命名为 “BMC4泰斯特收藏 v58.1” （可点击该段文字复制）即可激活下方的“启动并连接至服务器”按钮"
+                EventType="复制文本" EventData="BMC4泰斯特收藏 v58.1"
+                ToolTip="复制 “BMC4泰斯特收藏 v58.1” " />
           <TextBlock Margin="0,0,0,4" TextWrapping="Wrap" FontSize="13" Foreground="{DynamicResource ColorBrush1}"
                 Text="-叁- 点击下方的按钮前往修改登录方式" />
           <local:MyListItem Margin="-5,2,-5,8"
@@ -64,13 +64,13 @@
                 Text="-伍- 点击下方的按钮加入服务器" />
           <local:MyListItem Margin="-5,2,-5,8"
                 Logo="pack://application:,,,/images/Blocks/RedstoneLampOn.png"
-                Title="[简幻欢]启动BMC4泰斯特收藏 v58" Info="连接至简幻欢服务器"
-                EventType="启动游戏" EventData="BMC4泰斯特收藏 v58|play.simpfun.cn:40654"
-                ToolTip="启动泰斯特收藏 v58 并连接至简幻欢服务器&#xA;所以你™瞅啥？" Type="Clickable" />
+                Title="[简幻欢]启动BMC4泰斯特收藏 v58.1" Info="连接至简幻欢服务器"
+                EventType="启动游戏" EventData="BMC4泰斯特收藏 v58.1|play.simpfun.cn:40654"
+                ToolTip="启动泰斯特收藏 v58.1 并连接至简幻欢服务器&#xA;所以你™瞅啥？" Type="Clickable" />
     </StackPanel>
 </local:MyCard>
 
-<local:MyCard Title="BMC4泰斯特收藏 v58 —— 游戏内点击 “`” 打开FTB任务！" Margin="0,0,0,15">
+<local:MyCard Title="BMC4泰斯特收藏 v58.1 —— 游戏内点击 “`” 打开FTB任务！" Margin="0,0,0,15">
     <StackPanel Margin="25,40,23,15">
           <local:MyHint Margin="0,0,0,4"
                 IsWarn="True"
@@ -79,8 +79,8 @@
                 ToolTip="点击该提示，将服务器链接复制到剪切板，加入游戏！&#xA;Minecraft，爽！" />
           <local:MyListItem Margin="-5,2,-5,8"
                 Logo="pack://application:,,,/images/Blocks/RedstoneLampOn.png"
-                Title="[简幻欢]启动BMC4泰斯特收藏 v58" Info="连接至简幻欢服务器"
-                EventType="启动游戏" EventData="BMC4泰斯特收藏 v58|play.simpfun.cn:40654"
+                Title="[简幻欢]启动BMC4泰斯特收藏 v58.1" Info="连接至简幻欢服务器"
+                EventType="启动游戏" EventData="BMC4泰斯特收藏 v58.1|play.simpfun.cn:40654"
                 ToolTip="启动泰斯特收藏 v58 并连接至简幻欢服务器&#xA;所以你™瞅啥？" Type="Clickable" />
     </StackPanel>
 </local:MyCard>
