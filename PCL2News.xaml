@@ -1,11 +1,14 @@
 <!-- 代码很乱，小白写的，仅供参考。 -->
 <!-- 轻喷 -->
 
-<local:MyCard Title=" v58  更新公告！" CanSwap="True" IsSwaped="true" Margin="0,0,0,15">
+<local:MyCard Title="泰斯特收藏 v58 更新公告！" CanSwap="True" IsSwaped="true" Margin="0,0,0,15">
     <StackPanel Margin="25,40,23,15">
         <TextBlock Margin="0,0,0,4" TextWrapping="Wrap" FontSize="13" Foreground="{DynamicResource ColorBrush1}"
-             Text="整合包版本已更新到  v58  ，服务器已同步更新，请更新后再加入服务器。&#xA;在每次更新整合包前，请删除上一个版本的整合包&#xA;现在支持点击下面的启动按钮直接进入服务器啦！（但是服务器连接不及时更新，所以...）" />
+             Text="整合包版本已更新到  v58  ，服务器已同步更新，请更新后再加入服务器。&#xA;现在支持点击下面的启动按钮直接进入服务器啦！（但是服务器连接不及时更新，所以...）（话说服务器链接也不需要一直更新吧？）" />
     </StackPanel>
+    <local:MyHint Margin="0,0,0,4"
+             IsWarn="False"
+             Text="在每次更新整合包前，请删除上一个版本的整合包并重新安装新版本整合包" />
 </local:MyCard>
 
 <local:MyCard Title="泰斯特收藏 v58 —— 游戏内点击 “`” 打开FTB任务！" Margin="0,0,0,15">
