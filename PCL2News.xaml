@@ -1,15 +1,10 @@
 <!-- 代码很乱，小白写的，仅供参考。 -->
 <!-- 轻喷 -->
 
-<local:MyCard Title="泰斯特收藏 v58.1 更新公告及下载链接！" CanSwap="True" IsSwaped="false" Margin="0,0,0,15">
+<local:MyCard Title="泰斯特收藏 v58.1 更新公告及下载链接！" CanSwap="True" IsSwaped="true" Margin="0,0,0,15">
     <StackPanel Margin="25,40,23,15">
         <TextBlock Margin="0,0,0,4" TextWrapping="Wrap" FontSize="13" Foreground="{DynamicResource ColorBrush1}"
-             Text="整合包版本已更新到  v58.1  ，服务器已同步更新，请更新后再加入服务器。" />
-        <local:MyHint Margin="0,0,0,4"
-             IsWarn="False"
-             Text="在每次更新整合包前，请删除上一个版本的整合包并重新安装新版本整合包" />
-        <TextBlock Margin="0,0,0,4" TextWrapping="Wrap" FontSize="13" FontWeight="Bold" Foreground="{DynamicResource ColorBrush1}"
-             Text="变动：" />
+             Text="整合包版本已更新到  v58.1  ，服务器已同步更新，请更新后再加入服务器。&#xA;详细改动如下：" />
         <local:MyHint Margin="0,0,0,4"
              IsWarn="False"
              Text="新增模组 车万女仆及其附属" />
@@ -32,6 +27,9 @@
              Title="[移动和彩云]下载 泰斯特收藏 v58.1 版本整合包" Info="包含标准核心和离线核心"
              EventType="打开网页" EventData="https://yun.139.com/shareweb/#/w/i/2vMBxCzhu4sdh&amp;pwd=6h30"
              ToolTip="提取码：6h30" Type="Clickable" />
+        <local:MyHint Margin="0,0,0,4"
+             IsWarn="False"
+             Text="在每次更新整合包前，请删除上一个版本的整合包并重新安装新版本整合包" />
     </StackPanel>
 </local:MyCard>
 
