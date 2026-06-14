@@ -81,7 +81,7 @@
                 Logo="pack://application:,,,/images/Blocks/RedstoneLampOn.png"
                 Title="[简幻欢]启动BMC4泰斯特收藏 v58.1" Info="连接至简幻欢服务器"
                 EventType="启动游戏" EventData="BMC4泰斯特收藏 v58.1|play.simpfun.cn:40654"
-                ToolTip="启动泰斯特收藏 v58 并连接至简幻欢服务器&#xA;所以你™瞅啥？" Type="Clickable" />
+                ToolTip="启动泰斯特收藏 v58.1 并连接至简幻欢服务器&#xA;所以你™瞅啥？" Type="Clickable" />
     </StackPanel>
 </local:MyCard>
 
