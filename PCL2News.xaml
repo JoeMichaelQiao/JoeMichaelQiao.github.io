@@ -47,7 +47,7 @@
           <local:MyListItem Margin="-5,2,-5,8"
                 Logo="pack://application:,,,/images/Blocks/Grass.png"
                 Title="前往修改登录方式" Info="修改登录方式为Littleskin，在该按钮上悬停以查看详情"
-                EventType="切换页面" EventData="InstanceSetup|InstanceSetup"
+                EventType="切换页面" EventData="InstanceSetup|1"
                 ToolTip="在弹出的页面中下滑找到 “服务器” ，将 “登录方式” 项修改为 “第三方登录：Authlib Injector 或 LittleSkin” 并点击下方的 “设置为Littleskin” 按钮" Type="Clickable" />
           <TextBlock Margin="0,0,0,4" TextWrapping="Wrap" FontSize="13" Foreground="{DynamicResource ColorBrush1}"
                 Text="-肆- 在左侧的窗口中登陆你注册的Littleskin账号" />
