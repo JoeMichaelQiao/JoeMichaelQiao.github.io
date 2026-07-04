@@ -56,7 +56,7 @@
           <local:MyListItem Margin="-5,2,-5,8"
                 Logo="pack://application:,,,/images/Blocks/RedstoneLampOn.png"
                 Title="[简幻欢]启动BMC4泰斯特收藏 v58.2" Info="连接至简幻欢服务器"
-                EventType="启动游戏" EventData="BMC4泰斯特收藏 v58.2|play.simpfun.cn:40654"
+                EventType="启动游戏" EventData="BMC4泰斯特收藏 v58.2|play.simpfun.cn:42912"
                 ToolTip="启动泰斯特收藏 v58.2 并连接至简幻欢服务器&#xA;所以你™瞅啥？" Type="Clickable" />
     </StackPanel>
 </local:MyCard>
@@ -66,12 +66,12 @@
           <local:MyHint Margin="0,0,0,4"
                 IsWarn="True"
                 Text="目前运行的节点为：简幻欢 v4"
-                EventType="复制文本" EventData="play.simpfun.cn:40654"
+                EventType="复制文本" EventData="play.simpfun.cn:42912"
                 ToolTip="点击该提示，将服务器链接复制到剪切板，加入游戏！&#xA;Minecraft，爽！" />
           <local:MyListItem Margin="-5,2,-5,8"
                 Logo="pack://application:,,,/images/Blocks/RedstoneLampOn.png"
                 Title="[简幻欢]启动BMC4泰斯特收藏 v58.2" Info="连接至简幻欢服务器"
-                EventType="启动游戏" EventData="BMC4泰斯特收藏 v58.2|play.simpfun.cn:40654"
+                EventType="启动游戏" EventData="BMC4泰斯特收藏 v58.2|play.simpfun.cn:42912"
                 ToolTip="启动泰斯特收藏 v58.2 并连接至简幻欢服务器&#xA;所以你™瞅啥？" Type="Clickable" />
     </StackPanel>
 </local:MyCard>
