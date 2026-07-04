@@ -16,7 +16,7 @@
         <local:MyListItem Margin="-5,2,-5,8"
              Logo="pack://application:,,,/images/Blocks/NeoForge.png"
              Title="[移动和彩云]下载 泰斯特收藏 v58.2 版本整合包" Info="包含标准核心和离线核心"
-             EventType="打开网页" EventData="https://yun39.com/shareweb/#/w/i/2vMBxCzhu4sdh&amp;pwd=6h30"
+             EventType="打开网页" EventData="https://yun.139.com/shareweb/#/w/i/2vMBxCzhu4sdh&amp;pwd=6h30"
              ToolTip="提取码：6h30" Type="Clickable" />
         <local:MyHint Margin="0,0,0,4"
              IsWarn="True"
@@ -39,7 +39,7 @@
                 Text="-贰- 将由更新公告处下载的文件拖入此窗口，并命名为“BMC4泰斯特收藏 v58.2”"
                 EventType="复制文本" EventData="BMC4泰斯特收藏 v58.2" />
           <local:MyHint Margin="0,0,0,4" IsWarn="False"
-                Text="要安装整合包，只需将下载的.zip核心拖入PCL2窗口中，并在弹出的窗口中将版本命名为 “BMC4泰斯特收藏 v58.2” （可点击该段文字复制）即可激活下方的“启动并连接至服务器”按钮"
+                Text="要安装整合包，只需将下载的.zip核心拖入PCL2窗口中，并在弹出的窗口中将版本命名为 “BMC4泰斯特收藏 v58.2” （可点击该段文字复制）"
                 EventType="复制文本" EventData="BMC4泰斯特收藏 v58.2"
                 ToolTip="复制 “BMC4泰斯特收藏 v58.2” " />
           <TextBlock Margin="0,0,0,4" TextWrapping="Wrap" FontSize="13" Foreground="{DynamicResource ColorBrush1}"
@@ -47,7 +47,7 @@
           <local:MyListItem Margin="-5,2,-5,8"
                 Logo="pack://application:,,,/images/Blocks/Grass.png"
                 Title="前往修改登录方式" Info="修改登录方式为Littleskin，在该按钮上悬停以查看详情"
-                EventType="切换页面" EventData="InstanceSetup|1"
+                EventType="切换页面" EventData="InstanceSetup|InstanceSetup"
                 ToolTip="在弹出的页面中下滑找到 “服务器” ，将 “登录方式” 项修改为 “第三方登录：Authlib Injector 或 LittleSkin” 并点击下方的 “设置为Littleskin” 按钮" Type="Clickable" />
           <TextBlock Margin="0,0,0,4" TextWrapping="Wrap" FontSize="13" Foreground="{DynamicResource ColorBrush1}"
                 Text="-肆- 在左侧的窗口中登陆你注册的Littleskin账号" />
@@ -106,7 +106,7 @@
         <local:MyListItem Margin="-5,2,-5,8"
              Logo="pack://application:,,,/images/Blocks/NeoForge.png"
              Title="[移动和彩云]下载 泰斯特收藏 v58.1 版本整合包" Info="包含标准核心和离线核心"
-             EventType="打开网页" EventData="https://yun39.com/shareweb/#/w/i/2vMBxCzhu4sdh&amp;pwd=6h30"
+             EventType="打开网页" EventData="https://yun.139.com/shareweb/#/w/i/2vMBxCzhu4sdh&amp;pwd=6h30"
              ToolTip="提取码：6h30" Type="Clickable" />
         <local:MyHint Margin="0,0,0,4"
              IsWarn="True"
@@ -129,7 +129,7 @@
         <local:MyListItem Margin="-5,2,-5,8"
              Logo="pack://application:,,,/images/Blocks/NeoForge.png"
              Title="[移动和彩云]下载 泰斯特收藏 v58 版本整合包" Info="包含标准核心和离线核心"
-             EventType="打开网页" EventData="https://yun39.com/shareweb/#/w/i/2vMBxCzhu4sdh&amp;pwd=6h30"
+             EventType="打开网页" EventData="https://yun.139.com/shareweb/#/w/i/2vMBxCzhu4sdh&amp;pwd=6h30"
              ToolTip="提取码：6h30" Type="Clickable" />
     </StackPanel>
 </local:MyCard>
