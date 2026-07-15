@@ -25,9 +25,9 @@
              Text="内置服务器列表 将服务器地址默认添加至服务器列表中" />
         <local:MyListItem Margin="-5,2,-5,8"
              Logo="pack://application:,,,/images/Blocks/RedstoneLampOff.png"
-             Title="[蓝奏云]下载 泰斯特收藏 v58.3 版本整合包" Info="提取码：TEST仅包含不包含全部文件的标准核心，安装标准核心时需网络连接"
+             Title="[蓝奏云]下载 泰斯特收藏 v58.3 版本整合包" Info="提取码：TEST 仅包含不包含全部文件的标准核心，安装标准核心时需网络连接"
              EventType="打开网页" EventData="https://joemichaelqiao.lanzouq.com/b01d70kvkj"
-             ToolTip="提取码：TEST不是直链不是直链不是直链" Type="Clickable" />
+             ToolTip="提取码：TEST 不是直链不是直链不是直链" Type="Clickable" />
         <local:MyListItem Margin="-5,2,-5,8"
              Logo="pack://application:,,,/images/Blocks/NeoForge.png"
              Title="[移动和彩云]下载 泰斯特收藏 v58.3 版本整合包" Info="包含标准核心和离线核心"
@@ -100,9 +100,9 @@
              Text="移除模组 深海舰队收藏-重铸" />
         <local:MyListItem Margin="-5,2,-5,8"
              Logo="pack://application:,,,/images/Blocks/RedstoneLampOff.png"
-             Title="[蓝奏云]下载 泰斯特收藏 v58.2 版本整合包" Info="提取码：TEST仅包含不包含全部文件的标准核心，安装标准核心时需网络连接"
+             Title="[蓝奏云]下载 泰斯特收藏 v58.2 版本整合包" Info="提取码：TEST 仅包含不包含全部文件的标准核心，安装标准核心时需网络连接"
              EventType="打开网页" EventData="https://joemichaelqiao.lanzouq.com/b01d70kvkj"
-             ToolTip="提取码：TEST不是直链不是直链不是直链" Type="Clickable" />
+             ToolTip="提取码：TEST 不是直链不是直链不是直链" Type="Clickable" />
         <local:MyListItem Margin="-5,2,-5,8"
              Logo="pack://application:,,,/images/Blocks/NeoForge.png"
              Title="[移动和彩云]下载 泰斯特收藏 v58.2 版本整合包" Info="包含标准核心和离线核心"
@@ -138,9 +138,9 @@
              Text="修改配置 下调了 深海舰队收藏-重铸 中 怨念 的掉落倍率（服务器卡炸了一次...）" />
         <local:MyListItem Margin="-5,2,-5,8"
              Logo="pack://application:,,,/images/Blocks/RedstoneLampOff.png"
-             Title="[蓝奏云]下载 泰斯特收藏 v58.1 版本整合包" Info="提取码：TEST仅包含不包含全部文件的标准核心，安装标准核心时需网络连接"
+             Title="[蓝奏云]下载 泰斯特收藏 v58.1 版本整合包" Info="提取码：TEST 仅包含不包含全部文件的标准核心，安装标准核心时需网络连接"
              EventType="打开网页" EventData="https://joemichaelqiao.lanzouq.com/b01d70kvkj"
-             ToolTip="提取码：TEST不是直链不是直链不是直链" Type="Clickable" />
+             ToolTip="提取码：TEST 不是直链不是直链不是直链" Type="Clickable" />
         <local:MyListItem Margin="-5,2,-5,8"
              Logo="pack://application:,,,/images/Blocks/NeoForge.png"
              Title="[移动和彩云]下载 泰斯特收藏 v58.1 版本整合包" Info="包含标准核心和离线核心"
@@ -161,9 +161,9 @@
              Text="在每次更新整合包前，请删除上一个版本的整合包并重新安装新版本整合包" />
         <local:MyListItem Margin="-5,2,-5,8"
              Logo="pack://application:,,,/images/Blocks/RedstoneLampOff.png"
-             Title="[蓝奏云]下载 泰斯特收藏 v58 版本整合包" Info="提取码：TEST仅包含不包含全部文件的标准核心，安装标准核心时需网络连接"
+             Title="[蓝奏云]下载 泰斯特收藏 v58 版本整合包" Info="提取码：TEST 仅包含不包含全部文件的标准核心，安装标准核心时需网络连接"
              EventType="打开网页" EventData="https://joemichaelqiao.lanzouq.com/b01d70kvkj"
-             ToolTip="提取码：TEST不是直链不是直链不是直链" Type="Clickable" />
+             ToolTip="提取码：TEST 不是直链不是直链不是直链" Type="Clickable" />
         <local:MyListItem Margin="-5,2,-5,8"
              Logo="pack://application:,,,/images/Blocks/NeoForge.png"
              Title="[移动和彩云]下载 泰斯特收藏 v58 版本整合包" Info="包含标准核心和离线核心"
