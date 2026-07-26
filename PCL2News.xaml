@@ -129,8 +129,6 @@
     </StackPanel>
 </local:MyCard>
 
-<<<<<<< HEAD
-=======
 <local:MyCard Title="BMC4泰斯特收藏 v58.3 帮助中心 —— 从蜜饼开始的客户端配置教程！" CanSwap="True" IsSwaped="true" Margin="0,0,0,15">
     <StackPanel Margin="25,40,23,15">
           <TextBlock Margin="0,0,0,4" TextWrapping="Wrap" FontSize="13" Foreground="{DynamicResource ColorBrush1}"
@@ -183,7 +181,6 @@
     </StackPanel>
 </local:MyCard>
 
->>>>>>> 092ccc74533be1ea3289a8cd3a501c2010731903
 <local:MyCard Title="泰斯特收藏 v58.2 更新公告及下载链接！" CanSwap="True" IsSwaped="true" Margin="0,0,0,15">
     <StackPanel Margin="25,40,23,15">
         <TextBlock Margin="0,0,0,4" TextWrapping="Wrap" FontSize="13" Foreground="{DynamicResource ColorBrush1}"
