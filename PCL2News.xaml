@@ -15,6 +15,9 @@
              IsWarn="False"
              Text="新增模组 信标强制加载Forge版" />
         <local:MyHint Margin="0,0,0,4"
+             IsWarn="False"
+             Text="新增模组 通用拼音搜索" />
+        <local:MyHint Margin="0,0,0,4"
              IsWarn="True"
              Text="移除模组 简单存储" />
         <local:MyListItem Margin="-5,2,-5,8"
