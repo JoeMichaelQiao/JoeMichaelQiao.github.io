@@ -1,6 +1,90 @@
 <!-- 代码很乱，小白写的，仅供参考。 -->
 <!-- 轻喷 -->
 
+<local:MyCard Title="泰斯特收藏 v58.5 更新公告及下载链接！" CanSwap="True" IsSwaped="true" Margin="0,0,0,15">
+    <StackPanel Margin="25,40,23,15">
+        <TextBlock Margin="0,0,0,4" TextWrapping="Wrap" FontSize="13" Foreground="{DynamicResource ColorBrush1}"
+             Text="整合包版本已更新到  v58.5  ，服务器已同步更新，请更新后再加入服务器。&#xA;详细改动如下：" />
+        <local:MyHint Margin="0,0,0,4"
+             IsWarn="False"
+             Text="新增模组 汤姆的简易存储" />
+        <local:MyHint Margin="0,0,0,4"
+             IsWarn="False"
+             Text="新增模组 仿碧蓝档案光环" />
+        <local:MyHint Margin="0,0,0,4"
+             IsWarn="False"
+             Text="新增模组 信标强制加载Forge版" />
+        <local:MyHint Margin="0,0,0,4"
+             IsWarn="True"
+             Text="移除模组 简单存储" />
+        <local:MyListItem Margin="-5,2,-5,8"
+             Logo="pack://application:,,,/images/Blocks/RedstoneLampOff.png"
+             Title="[蓝奏云]下载 泰斯特收藏 v58.5 版本整合包" Info="提取码：TEST 仅包含不包含全部文件的标准核心，安装标准核心时需网络连接"
+             EventType="打开网页" EventData="https://joemichaelqiao.lanzouq.com/b01d70kvkj"
+             ToolTip="提取码：TEST 不是直链不是直链不是直链" Type="Clickable" />
+        <local:MyListItem Margin="-5,2,-5,8"
+             Logo="pack://application:,,,/images/Blocks/NeoForge.png"
+             Title="[移动和彩云]下载 泰斯特收藏 v58.5 版本整合包" Info="包含标准核心和离线核心"
+             EventType="打开网页" EventData="https://yun.139.com/shareweb/#/w/i/2vMBxCzhu4sdh&amp;pwd=6h30"
+             ToolTip="提取码：6h30" Type="Clickable" />
+        <local:MyHint Margin="0,0,0,4"
+             IsWarn="True"
+             Text="在每次更新整合包前，请删除上一个版本的整合包并重新安装新版本整合包" />
+    </StackPanel>
+</local:MyCard>
+
+<local:MyCard Title="BMC4泰斯特收藏 v58.5 帮助中心 —— 从蜜饼开始的客户端配置教程！" CanSwap="True" IsSwaped="true" Margin="0,0,0,15">
+    <StackPanel Margin="25,40,23,15">
+          <TextBlock Margin="0,0,0,4" TextWrapping="Wrap" FontSize="13" Foreground="{DynamicResource ColorBrush1}"
+                Text="BMC4泰斯特收藏的帮助中心！想在这个界面看到别的什么或者排版建议都可以来找乔九九本啾" />
+          <TextBlock Margin="0,0,0,4" TextWrapping="Wrap" FontSize="13" Foreground="{DynamicResource ColorBrush1}"
+                Text="-壹- 点击下面的按钮注册Littleskin账号" />
+          <local:MyListItem Margin="-5,2,-5,8"
+                Logo="pack://application:,,,/images/Blocks/Grass.png"
+                Title="前往注册Littleskin皮肤站账号" Info="前往Littleskin进行账号注册"
+                EventType="打开网页" EventData="https://littleskin.cn/auth/register"
+                ToolTip="注册Littleskin皮肤站账号作为没有正版账号的补偿方案" Type="Clickable" />
+          <local:MyTextButton Margin="0,0,0,4" FontSize="13" Foreground="{DynamicResource ColorBrush1}"
+                Text="-贰- 将由更新公告处下载的文件拖入此窗口，并命名为“BMC4泰斯特收藏 v58.5”"
+                EventType="复制文本" EventData="BMC4泰斯特收藏 v58.5" />
+          <local:MyHint Margin="0,0,0,4" IsWarn="False"
+                Text="要安装整合包，只需将下载的.zip核心拖入PCL2窗口中，并在弹出的窗口中将版本命名为 “BMC4泰斯特收藏 v58.5” （可点击该段文字复制）即可激活下方的“启动并连接至服务器”按钮"
+                EventType="复制文本" EventData="BMC4泰斯特收藏 v58.5"
+                ToolTip="复制 “BMC4泰斯特收藏 v58.5” " />
+          <TextBlock Margin="0,0,0,4" TextWrapping="Wrap" FontSize="13" Foreground="{DynamicResource ColorBrush1}"
+                Text="-叁- 点击下方的按钮前往修改登录方式" />
+          <local:MyListItem Margin="-5,2,-5,8"
+                Logo="pack://application:,,,/images/Blocks/Grass.png"
+                Title="前往修改登录方式" Info="修改登录方式为Littleskin，在该按钮上悬停以查看详情"
+                EventType="切换页面" EventData="InstanceSetup|1"
+                ToolTip="在弹出的页面中下滑找到 “服务器” ，将 “登录方式” 项修改为 “第三方登录：Authlib Injector 或 LittleSkin” 并点击下方的 “设置为Littleskin” 按钮" Type="Clickable" />
+          <TextBlock Margin="0,0,0,4" TextWrapping="Wrap" FontSize="13" Foreground="{DynamicResource ColorBrush1}"
+                Text="-肆- 在左侧的窗口中登陆你注册的Littleskin账号" />
+          <TextBlock Margin="0,0,0,4" TextWrapping="Wrap" FontSize="13" Foreground="{DynamicResource ColorBrush1}"
+                Text="-伍- 点击下方的按钮加入服务器" />
+          <local:MyListItem Margin="-5,2,-5,8"
+                Logo="pack://application:,,,/images/Blocks/RedstoneLampOn.png"
+                Title="[简幻欢]启动BMC4泰斯特收藏 v58.5" Info="连接至简幻欢服务器"
+                EventType="启动游戏" EventData="BMC4泰斯特收藏 v58.5|play.simpfun.cn:42912"
+                ToolTip="启动泰斯特收藏 v58.5 并连接至简幻欢服务器&#xA;所以你™瞅啥？" Type="Clickable" />
+    </StackPanel>
+</local:MyCard>
+
+<local:MyCard Title="BMC4泰斯特收藏 v58.5 —— 游戏内点击 “J” 打开FTB任务！" Margin="0,0,0,15">
+    <StackPanel Margin="25,40,23,15">
+          <local:MyHint Margin="0,0,0,4"
+                IsWarn="True"
+                Text="目前运行的节点为：简幻欢 v4 （点击复制服务器地址及端口）"
+                EventType="复制文本" EventData="play.simpfun.cn:42912"
+                ToolTip="点击该提示，将服务器链接复制到剪切板，加入游戏！&#xA;Minecraft，爽！" />
+          <local:MyListItem Margin="-5,2,-5,8"
+                Logo="pack://application:,,,/images/Blocks/RedstoneLampOn.png"
+                Title="[简幻欢]启动BMC4泰斯特收藏 v58.5" Info="连接至简幻欢服务器"
+                EventType="启动游戏" EventData="BMC4泰斯特收藏 v58.5|play.simpfun.cn:42912"
+                ToolTip="启动泰斯特收藏 v58.5 并连接至简幻欢服务器&#xA;所以你™瞅啥？" Type="Clickable" />
+    </StackPanel>
+</local:MyCard>
+
 <local:MyCard Title="泰斯特收藏 v58.4 更新公告及下载链接！" CanSwap="True" IsSwaped="true" Margin="0,0,0,15">
     <StackPanel Margin="25,40,23,15">
         <TextBlock Margin="0,0,0,4" TextWrapping="Wrap" FontSize="13" Foreground="{DynamicResource ColorBrush1}"
@@ -36,58 +120,6 @@
         <local:MyHint Margin="0,0,0,4"
              IsWarn="True"
              Text="在每次更新整合包前，请删除上一个版本的整合包并重新安装新版本整合包" />
-    </StackPanel>
-</local:MyCard>
-
-<local:MyCard Title="BMC4泰斯特收藏 v58.4 帮助中心 —— 从蜜饼开始的客户端配置教程！" CanSwap="True" IsSwaped="true" Margin="0,0,0,15">
-    <StackPanel Margin="25,40,23,15">
-          <TextBlock Margin="0,0,0,4" TextWrapping="Wrap" FontSize="13" Foreground="{DynamicResource ColorBrush1}"
-                Text="BMC4泰斯特收藏的帮助中心！想在这个界面看到别的什么或者排版建议都可以来找乔九九本啾" />
-          <TextBlock Margin="0,0,0,4" TextWrapping="Wrap" FontSize="13" Foreground="{DynamicResource ColorBrush1}"
-                Text="-壹- 点击下面的按钮注册Littleskin账号" />
-          <local:MyListItem Margin="-5,2,-5,8"
-                Logo="pack://application:,,,/images/Blocks/Grass.png"
-                Title="前往注册Littleskin皮肤站账号" Info="前往Littleskin进行账号注册"
-                EventType="打开网页" EventData="https://littleskin.cn/auth/register"
-                ToolTip="注册Littleskin皮肤站账号作为没有正版账号的补偿方案" Type="Clickable" />
-          <local:MyTextButton Margin="0,0,0,4" FontSize="13" Foreground="{DynamicResource ColorBrush1}"
-                Text="-贰- 将由更新公告处下载的文件拖入此窗口，并命名为“BMC4泰斯特收藏 v58.4”"
-                EventType="复制文本" EventData="BMC4泰斯特收藏 v58.4" />
-          <local:MyHint Margin="0,0,0,4" IsWarn="False"
-                Text="要安装整合包，只需将下载的.zip核心拖入PCL2窗口中，并在弹出的窗口中将版本命名为 “BMC4泰斯特收藏 v58.4” （可点击该段文字复制）即可激活下方的“启动并连接至服务器”按钮"
-                EventType="复制文本" EventData="BMC4泰斯特收藏 v58.4"
-                ToolTip="复制 “BMC4泰斯特收藏 v58.4” " />
-          <TextBlock Margin="0,0,0,4" TextWrapping="Wrap" FontSize="13" Foreground="{DynamicResource ColorBrush1}"
-                Text="-叁- 点击下方的按钮前往修改登录方式" />
-          <local:MyListItem Margin="-5,2,-5,8"
-                Logo="pack://application:,,,/images/Blocks/Grass.png"
-                Title="前往修改登录方式" Info="修改登录方式为Littleskin，在该按钮上悬停以查看详情"
-                EventType="切换页面" EventData="InstanceSetup|1"
-                ToolTip="在弹出的页面中下滑找到 “服务器” ，将 “登录方式” 项修改为 “第三方登录：Authlib Injector 或 LittleSkin” 并点击下方的 “设置为Littleskin” 按钮" Type="Clickable" />
-          <TextBlock Margin="0,0,0,4" TextWrapping="Wrap" FontSize="13" Foreground="{DynamicResource ColorBrush1}"
-                Text="-肆- 在左侧的窗口中登陆你注册的Littleskin账号" />
-          <TextBlock Margin="0,0,0,4" TextWrapping="Wrap" FontSize="13" Foreground="{DynamicResource ColorBrush1}"
-                Text="-伍- 点击下方的按钮加入服务器" />
-          <local:MyListItem Margin="-5,2,-5,8"
-                Logo="pack://application:,,,/images/Blocks/RedstoneLampOn.png"
-                Title="[简幻欢]启动BMC4泰斯特收藏 v58.4" Info="连接至简幻欢服务器"
-                EventType="启动游戏" EventData="BMC4泰斯特收藏 v58.4|play.simpfun.cn:42912"
-                ToolTip="启动泰斯特收藏 v58.4 并连接至简幻欢服务器&#xA;所以你™瞅啥？" Type="Clickable" />
-    </StackPanel>
-</local:MyCard>
-
-<local:MyCard Title="BMC4泰斯特收藏 v58.4 —— 游戏内点击 “J” 打开FTB任务！" Margin="0,0,0,15">
-    <StackPanel Margin="25,40,23,15">
-          <local:MyHint Margin="0,0,0,4"
-                IsWarn="True"
-                Text="目前运行的节点为：简幻欢 v4 （点击复制服务器地址及端口）"
-                EventType="复制文本" EventData="play.simpfun.cn:42912"
-                ToolTip="点击该提示，将服务器链接复制到剪切板，加入游戏！&#xA;Minecraft，爽！" />
-          <local:MyListItem Margin="-5,2,-5,8"
-                Logo="pack://application:,,,/images/Blocks/RedstoneLampOn.png"
-                Title="[简幻欢]启动BMC4泰斯特收藏 v58.4" Info="连接至简幻欢服务器"
-                EventType="启动游戏" EventData="BMC4泰斯特收藏 v58.4|play.simpfun.cn:42912"
-                ToolTip="启动泰斯特收藏 v58.4 并连接至简幻欢服务器&#xA;所以你™瞅啥？" Type="Clickable" />
     </StackPanel>
 </local:MyCard>
 
