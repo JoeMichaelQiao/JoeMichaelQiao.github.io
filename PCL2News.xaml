@@ -10,6 +10,9 @@
              Text="新增模组 汤姆的简易存储" />
         <local:MyHint Margin="0,0,0,4"
              IsWarn="False"
+             Text="新增模组 汤姆存储 - 星的奇妙优化" />
+        <local:MyHint Margin="0,0,0,4"
+             IsWarn="False"
              Text="新增模组 仿碧蓝档案光环" />
         <local:MyHint Margin="0,0,0,4"
              IsWarn="False"
